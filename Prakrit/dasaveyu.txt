@@ -1,0 +1,1427 @@
+Dasaveyaliya
+
+Input by Yumi Ousaka and Moriichi Yamazaki
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+
+1 prathamamadhyayanam (dumapupphiyā.) /
+
+dhammo maṅgalamukkaṭhaṃ | ahiṃsā saṃjamo tavo /
+devā vi taṃ namaṃsanti | jassa dhamme sayā maṇo ||1||
+jahā dumassa pupphesu | bhamaro āviyai rasaṃ /
+na ya pupphaṃ kilāmei | so ya pīṇei appayaṃ ||2||
+emee samaṇā muttā | je loe santi sāhuṇo /
+vihaṃgamā va pupphesu | dāṇa-bhattesaṇe rayā ||3||
+vayaṃ ca vittiṃ labbhāmo | na ya koi uvahammaī /
+ahāgaḍesu rīyante | pupphesu bhamarā jahā ||4||
+mahukāra-samā buddhā | je bhavanti aṇissiyā /
+nāṇā-piṇḍa-rayā dantā, | teṇa vuccantisāhuṇo ||5|| tti bemi ||
+|| prathamamadhyayanam ||1||
+
+ Dasaveyāliya: 2 dvitīyamadhyayanam (sāmaṇṇapuvvagaṃ.) /
+
+kahaṃ nu kujjā sāmaṇṇaṃ | jo kāme na nivārae /
+pae pae visīyanto | saṃkappassa vasaṃ gao? ||1||
+vattha-gandhamalaṃkāraṃ | itthīo sayaṇāṇi ya /
+acchandā je na bhuñjanti | na se "cāi" tti vuccaī ||2||
+je ya kante pie bhoe | laddhe vippiṭhi-kuvvaī /
+sāhīṇe cayai bhoe | se hu "cāi" tti vuccaī ||3||
+  samāe pehāe parivvayanto | siyā maṇo nissaraī bahiddhā, /
+  "na sā mahaṃ no vi ahaṃ pi tīse" | icceva tāo viṇaejja rāgaṃ ||4||
+  āyāvayāhī! caya sogumallaṃ! | kāme kamāhī! kamiyaṃ khu dukkhaṃ /
+  chindāhi dosaṃ! viṇaejja rāgaṃ! | evaṃ suhī hohisi saṃparāe ||5||
+pakkhande jaliyaṃ joiṃ | dhūma-keuṃ durāsayaṃ /
+necchanti vantayaṃ bhottuṃ | kule jāyā agandhaṇe ||6||
+dhiratthu te jaso-kāmī | jo taṃ jīviya-kāraṇā /
+vantaṃ icchasi āveuṃ! | seyaṃ te maraṇaṃ bhave ||7||
+ahaṃ ca bhoga-rāyassa, | taṃ ca si andhavaṇhiṇo /
+mā kule gandhaṇā homo, | saṃjamaṃ nihuo cara ||8||
+jai taṃ kāhisi bhāvaṃ | jā jā dacchisi nārio /
+vāyāiddho vva haḍho | aṭhiyappā bhavissasi ||9||
+tīse so vayaṇaṃ soccā | saṃjayāe subhāsiyaṃ /
+aṅkuseṇa jahā nāgo | dhamme saṃpaḍivāio ||10||
+evaṃ karenti saṃbuddhā | paṇḍiyā paviyakkhaṇā /
+viṇiyaanti bhogesu | jahā se purisuttamo ||11|| tti bemi ||
+|| dvitīyamadhyayanam ||2||
+
+Dasaveyāliya: 3 tṛtīyamadhyayanam (khuḍḍiyāyāro.) /
+
+saṃjame suṭhiyappāṇaṃ | vippamukkāṇa tāiṇaṃ /
+tesimeyamaṇāiṇṇaṃ | nigganthāṇa mahesiṇaṃ ||1||
+uddesiyaṃ 1 kīyagaḍaṃ 2 | niyāgaṃ 3 abhihaḍāṇi 4 ya /
+rāi-bhatte 5 siṇāṇe 6 ya | gandha 7 malle 8 ya vīyaṇe 9 ||2||
+sannihī gihi-matte ya | rāyapiṇḍe kimicchae /
+saṃbāhaṇa danta-pahoyaṇā ya | saṃpucchaṇa deha-paloyaṇāya ||3||
+aṭhāvae ya nālī ya | chattassa ya dhāraṇaṭhāe /
+tegicchaṃ pāṇahā pāe | samārambhaṃ ca joiṇo ||4||
+sejjāyara-piṇḍaṃ ca | āsandī paliyaṅkae /
+gihantara-nisejjā ya | gāyassuvvaaṇāṇi ya ||5||
+gihiṇo veyāvaḍiyaṃ | jā ya ājīva-vattiyā /
+tattānivvuḍa-bhoittaṃ | āura-ssaraṇāṇi ya ||6||
+mūlae siṅgabere ya | ucchu-khaṇḍe anivvuḍe /
+kande mūle ya saccitte | phale bīe ya āmae ||7||
+sovaccale sindhave loṇe | romā-loṇe ya āmae /
+sāmudde paṃsu-khāre ya | kālā-loṇe ya āmae ||8||
+dhūvaṇe tti vamaṇe ya | vatthī-kamma vireyaṇe /
+añjaṇe dantavaṇe ya | gāyābhaṅga-vibhūsaṇe ||9||
+savvameyamaṇāiṇṇaṃ | nigganthāṇa mahesiṇaṃ /
+saṃjamammi ya juttāṇaṃ | lahubhūya-vihāriṇaṃ ||10||
+pañcāsava-parinnāyā | ti-guttā chasu saṃjayā /
+pañca-niggahaṇā dhīrā | nigganthā ujju-daṃsiṇo ||11||
+āyāvayanti gimhesu, | hemantesu avāuḍā /
+vāsāsu paḍisaṃlīṇā | saṃjayā su-samāhiyā ||12||
+parīsaha-riū dantā | dhuya-mohā jiindiyā /
+savva-dukkha-ppahīṇaṭhā | pakkamanti mahesiṇo ||13||
+dukkarāiṃ karettāṇaṃ | dussahāiṃ sahettu ya /
+ke ettha devalogesu | keī sijjhanti nīrayā ||14||
+khavittā puvva-kammāiṃ | saṃjameṇa taveṇa ya /
+siddhi-maggamaṇuppattā | tāiṇo parinivvuḍa ||15|| tti bemi ||
+|| tṛtīyamadhyayanam ||3||
+
+ Dasaveyāliya: 4 caturthamadhyayanam (chajjīvaṇiyā.) /
+ 
+suyaṃ me āusaṃ teṇaṃ bhagavayā evamakkhāyaṃ | ||*1.1||
+iha khalu chajjīvaṇiyā nāmajjhayaṇaṃ samaṇeṇaṃ bhagavayā ||*1.2||
+mahāvīreṇaṃ kāsaveṇaṃ paveiyā suyakkhāyā supannattā | ||*1.3||
+seyamme ahijjiuṃ || ajjhayaṇaṃ dhammapannattī || ||*1.4||
+kayarā khalu sā chajjīvaṇiyā nāmajjhayaṇaṃ samaṇeṇaṃ ||*1.5||
+bhagavayā mahāvīreṇaṃ kāsaveṇaṃ paveiyā suyakkhāyā ||*1.6||
+supannattā? ||*1.7||
+  imā khalu sā chajjīvaṇiyā nāmajjhayaṇaṃ, taṃ ||*1.8||
+jahā | puḍhavi-kāiyā āu-kāiyā teu-kāiyā ||*1.9||
+vāu-kāiyā vaṇassai-kāiyā tasa-kāiyā || ||*1.10||
+  puḍhavi cittamantakkhāyā aṇega-jīvā puḍho-sattā ||*1.11||
+annattha sattha-pariṇaeṇaṃ, āu cittamantakkhāyā ||*1.12||
+aṇega-jīvā puḍho-sattā annattha sattha-pariṇaeṇaṃ, ||*1.13||
+teu cittamantakkhāyā aṇega-jīvā puḍho-sattā annattha ||*1.14||
+sattha-pariṇaeṇaṃ, vāu cittamantakkhāyā aṇega-jīvā ||*1.15||
+puḍho-sattā annattha sattha-pariṇaeṇaṃ, vaṇassai cittamantakkhāyā ||*1.16||
+aṇega-jīvā puḍho-sattā annattha sattha-pariṇaeṇaṃ, ||*1.17||
+taṃ jahā | agga-bīyā mūla-bīyā pora-bīyā ||*1.18||
+khandha-bīyā bīya-ruhā sammucchimā, taṇa-layā vaṇassai ||*1.19||
+kāiyā sa-bīyā citamantakkhāyā aṇega-jīvā puḍhosattā ||*1.20||
+annattha sattha-pariṇaeṇaṃ || ||*1.21||
+  se je puṇa ime aṇege bahave tasā pāṇā, taṃ ||*1.22||
+jahā | aṇḍayā poyayā jarāuyā rasayā saṃseimā ||*1.23||
+sammucchimā ubbhiyā ovavāiyā jesiṃ kesiṃci pāṇāṇaṃ ||*1.24||
+abhikkantaṃ paḍikkantaṃ saṃkuciyaṃ pasāriyaṃ ruyaṃ ||*1.25||
+bhantaṃ tasiyaṃ palāiyaṃ āgai-gai-vinnāyā || ||*1.26||
+  je ya kīḍa-payaṅgā jā ya kunthu-pipīliyā savve ||*1.27||
+bendiyā savve teindiyā savve caurindiyā savve pañcindiyā ||*1.28||
+savve tirikkha-joṇiyā savve neraiyā savve maṇuyā ||*1.29||
+savve devā savve pāṇā paramāhammiyā, ||*1.30||
+  eso khalu chaṭho jīva-nikāo tasa-kāo tti ||*1.31||
+pavuccaī, ||*1.32||
+  iccesiṃ chaṇhaṃ jīva-nikāyāṇaṃ neva sayaṃ daṇḍaṃ ||*1.33||
+samārambhejjā, nevannehiṃ daṇḍaṃ samārambhāvejjā, daṇḍaṃ ||*1.34||
+samārambhante vi anne na samaṇujāṇejjā || ||*1.35||
+  jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ vāyāe ||*1.36||
+kāeṇaṃ na karemi na kāravemi karentaṃ pi annaṃ na ||*1.37||
+samaṇujāṇāmi, tassa bhante paḍikkamāmi nindāmi ||*1.38||
+garihāmi appāṇaṃ vosirāmi || ||*1.39||
+  paḍhame bhante mahavvae pāṇāivāyāo veramaṇaṃ | ||*1.40||
+savvaṃ bhante pāṇāivāyaṃ paccakkhāmi, se suhumaṃ vā bāyaraṃ ||*1.41||
+vā tasaṃ vā thāvaraṃ vā | neva sayaṃ pāṇe aivāejjā, ||*1.42||
+nevannehiṃ pāṇe aivāyāvejjā, pāṇe aivāyante vi ||*1.43||
+anne na samaṇujāṇejjā, jāvajjīvāe tivihaṃ tiviheṇaṃ ||*1.44||
+maṇeṇaṃ vāyāe kāeṇaṃ na karemi na kāravemi ||*1.45||
+karentaṃ pi annaṃ na samaṇujāṇāmi, tassa bhante ||*1.46||
+paḍikkamāmi nindāmi garihāmi appāṇaṃ vosirāmi, ||*1.47||
+paḍhame bhante mahavvae uvaṭhio mi | savvāo pāṇāivāyāo ||*1.48||
+veramaṇaṃ ||1|| ||*1.49||
+  ahāvare docce bhante mahavvae musāvāyāo veramaṇaṃ ||*2.1||
+| savvaṃ bhante musāvāyaṃ paccakkhāmi, se kohā vā ||*2.2||
+lohā vā bhayā vā hāsā vā | neva sayaṃ musaṃ vaejjā, ||*2.3||
+nevannehiṃ musaṃ vāyāvejjā, musaṃ vayante vi anne na samaṇujāṇejjā, ||*2.4||
+jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ ||*2.5||
+vāyāe kāeṇaṃ na karemi na kāravemi karentaṃ pi ||*2.6||
+annaṃ na samaṇujāṇāmi, tassa bhante paḍikkamāmi ||*2.7||
+nindāmi garihāmi appāṇaṃ vosirāmi, docce bhante ||*2.8||
+mahavvae uvaṭhio mi | savvāo musāvāyāo veramaṇaṃ ||*2.9||
+||2|| ||*2.10||
+  ahāvare tacce bhante mahavvae adinnādāṇāo ||*3.1||
+veramaṇaṃ | savvaṃ bhante adinnādāṇaṃ paccakkhāmi, se gāme ||*3.2||
+vā nagare vā ranne vā appaṃ vā ahuṃ vā aṇuṃ vā thūlaṃ vā cittamantaṃ ||*3.3||
+vā acittamantaṃ vā | neva sayaṃ adinnaṃ geṇhejjā, ||*3.4||
+nevannehiṃ adinnaṃ geṇhāvejjā, adinnaṃ geṇhante vi ||*3.5||
+anne na samaṇujāṇejjā, jāvajjīvāe tivihaṃ tiviheṇaṃ ||*3.6||
+maṇeṇaṃ vāyāe kāeṇaṃ na karemi na kāravemi ||*3.7||
+karentaṃ pi annaṃ na samaṇujāṇāmi, tassa bhante paḍikkamāmi ||*3.8||
+nindāmi garihāmi appāṇaṃ vosirāmi, ||*3.9||
+tacce bhante mahavvae uvaṭhio mi | savvāo adinnādāṇao ||*3.10||
+veramaṇaṃ ||3|| ||*3.11||
+  ahāvare cautthe bhante mahavvae mehuṇāo veramaṇaṃ ||*4.1||
+| savvaṃ bhante mehuṇaṃ paccakkhāmi, se divvaṃ vā māṇusaṃ ||*4.2||
+vā tirikkhajoṇiyaṃ vā | neva sayaṃ mehuṇaṃ sevejjā, nevannehiṃ ||*4.3||
+mehuṇaṃ sevāvejjā, mehuṇaṃ sevante vi anne na ||*4.4||
+samaṇujāṇejjā, jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ ||*4.5||
+vāyāe kāeṇaṃ na karemi na kāravemi karentaṃ pi ||*4.6||
+annaṃ na samaṇujāṇāmi, tassa bhante paḍikkamāmi nindāmi ||*4.7||
+garihāmi appāṇaṃ vosirāmi, cautthe bhante ||*4.8||
+mahavvae uvaṭhio mi | savvāo mehuṇāo veramaṇaṃ ||4|| ||*4.9||
+  ahāvare pañcame bhante mahavvae pariggahāo veramaṇaṃ ||*5.1||
+| savvaṃ bhante pariggahaṃ paccakkhāmi, se appaṃ vā ||*5.2||
+bahuṃ vā aṇuṃ vā thūlaṃ vā cittamantaṃ vā acittamantaṃ ||*5.3||
+vā | neva sayaṃ pariggahaṃ parigeṇhejjā, nevannehiṃ ||*5.4||
+pariggahaṃ parigeṇhāvejjā, pariggahaṃ parigeṇhante ||*5.5||
+vi anne na samaṇujāṇejjā, jāvajjīvāe tivihaṃ ||*5.6||
+tiviheṇaṃ maṇeṇaṃ vāyāe kāeṇaṃ na karemi na ||*5.7||
+kāravemi karentaṃ pi annaṃ na samaṇujāṇāmi, tassa ||*5.8||
+bhante paḍikkamāmi nindāmi garihāmi appāṇaṃ ||*5.9||
+vosirāmi, pañcame bhante mahavvae uvaṭhio mi | ||*5.10||
+savvāo pariggahāo veramaṇaṃ ||5|| ||*5.11||
+  ahāvare chaṭhe bhante vae rāībhoyaṇāo veramaṇaṃ | ||*6.1||
+savvaṃ bhante rāībhoyaṇaṃ paccakkhāmi, se asaṇaṃ vā pāṇaṃ ||*6.2||
+vā khāimaṃ vā sāimaṃ vā neva sayaṃ rāiṃ bhuñjejjā, nevannehiṃ ||*6.3||
+rāiṃ bhuñjāvejjā, rāiṃ bhuñjante vi anne na samaṇujāṇejjā, ||*6.4||
+jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ ||*6.5||
+vāyāe kāeṇaṃ na karemi na kāravemi karentaṃ pi ||*6.6||
+annaṃ na samaṇujāṇāmi, tassa bhante paḍikkamāmi ||*6.7||
+nindāmi garihāmi appāṇaṃ vosirāmi, chaṭhe bhante ||*6.8||
+vae uvaṭhio mi | savvāo rāībhoyaṇāo veramaṇaṃ || ||*6.9||
+  icceiyāiṃ pañca mahavvayāiṃ rāībhoyaṇaveramaṇachaṭhāiṃ ||*6.10||
+atta-hiyaṭhayāe uvasaṃpajjittāṇaṃ viharāmi ||6|| ||*6.11||
+  se bhikkhū vā bhikkhuṇī vā saṃjaya-viraya-paḍihaya ||*7.1||
+paccakkhāya-pāvakamme ||*7.1||
+diyā vā rāo vā egao vā ||*7.2||
+parisā-gao vā sutte vā jāgaramāṇe vā, se puḍhaviṃ ||*7.3||
+vā bhittiṃ vā silaṃ vā leluṃ vā sasarakkhaṃ vā kāyaṃ sasararakaṃ ||*7.4||
+vā vatthaṃ hattheṇa vā pāeṇa vā kaṭheṇa vā kaliñceṇa ||*7.5||
+vā aṅguliyāe vā salāgāe vā salāgahattheṇa ||*7.6||
+vā nālihejjā na vilihejjā na ghaejjā na ||*7.7||
+bhindejjā, annaṃ nālihāvejjā na vilihāvejjā na ||*7.8||
+ghaāvejjā na bhindāvejjā, annaṃ ālihantaṃ vā vilihantaṃ ||*7.9||
+vā ghaantaṃ vā bhindantaṃ vā na samaṇujāṇejjā, ||*7.10||
+jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ vāyāe kāeṇaṃ ||*7.11||
+na karemi na kāravemi karentaṃ pi annaṃ na samaṇujāṇāmi, ||*7.12||
+tassa bhante paḍikkamāmi nindāmi garihāmi ||*7.13||
+appāṇaṃ vosirāmi ||7|| ||*7.14||
+  se bhikkhū vā bhikkhuṇī vā saṃjaya-viraya-paḍihayapaccakkhāya-pāvakamme ||*8.1||
+diyā vā rāo vā egao vā ||*8.2||
+parisā-gao vā sutte vā jāgaramāṇe vā, se udagaṃ ||*8.3||
+vā osaṃ vā himaṃ vā mahiyaṃ vā karagaṃ vā harataṇugaṃ ||*8.4||
+vā suddhodagaṃ vā udaollaṃ vā kāyaṃ udaollaṃ vā vatthaṃ ||*8.5||
+sasiṇiddhaṃ vā kāyaṃ sasiṇiddhaṃ vā vatthaṃ nāmusejjā ||*8.6||
+na saṃphusejjā na āvīlejjā na pavīlejjā ||*8.7||
+na akkhoḍejjā na pakkhoḍejjā na āyāvejjā na payāvejjā, ||*8.8||
+annaṃ nāmusāvejjā na saṃphusāvejjā na āvīlāvejjā ||*8.9||
+na pavīlāvejjā na akkhoḍāvejjā na pakkhoḍāvejjā ||*8.10||
+na āyāvejjā na payāvejjā, annaṃ āmusantaṃ ||*8.11||
+vā saṃphasantaṃ vā āvīlantaṃ vā pavīlantaṃ vā ||*8.12||
+akkhoḍantaṃ vā pakkhoḍantaṃ vā āyāventaṃ vā payāventaṃ ||*8.13||
+vā na samaṇujāṇejjā, jāvajjīvāe tivihaṃ tiviheṇaṃ ||*8.14||
+maṇeṇaṃ vāyāe kāeṇaṃ na karemi na kāravemi karentaṃ ||*8.15||
+pi annaṃ na samaṇujāṇāmi, tassa bhante paḍikkamāmi ||*8.16||
+nindāmi garihāmi appāṇaṃ vosirāmi ||8|| ||*8.17||
+  se bhikkhū vā bhikkhuṇī vā saṃjaya-viraya-paḍihaya ||*9.1||
+paccakkhāya-pāvakamme diyā vā rāo vā egao vā ||*9.2||
+parisā-gao vā sutte vā jāgaramāṇe vā, se agaṇiṃ ||*9.3||
+vā iṅgālaṃ vā mummuraṃ vā acciṃ vā jālaṃ vā alāyaṃ ||*9.4||
+vā suddhāgaṇiṃ vā ukkaṃ vā na uñjejjā na ghaejjā na ||*9.5||
+ujjālejjā na nivvāvejjā, annaṃ na uñjāvejjā na ||*9.6||
+ghaāvejjā na ujjālāvejjā na nivvāvejjā, annaṃ ||*9.7||
+uñjantaṃ vā ghaantaṃ vā ujjālantaṃ vā nivvāvantaṃ vā na ||*9.8||
+samaṇujāṇejjā, jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ ||*9.9||
+vāyāe kāeṇaṃ na karemi na kāravemi karentaṃ ||*9.10||
+pi annaṃ na samaṇujāṇāmi, tassa bhante paḍikkamāmi ||*9.11||
+nindāmi garihāmi appāṇaṃ vosirāmi ||9|| ||*9.12||
+  se bhikkhū vā bhikkhuṇī vā saṃjaya-viraya-paḍihaya ||*10.1||
+paccakkhāya-pāvakamme diyā vā rāo vā egao vā ||*10.2||
+parisā-gao vā sutte vā jāgaramāṇe vā, se sieṇa vā ||*10.3||
+vihuyaṇeṇa vā tāliya- eṇa vā patteṇa vā patta-bhaṅgeṇa ||*10.4||
+vā sāhāe vā sāhā-bhaṅgeṇa vā pihuṇeṇa vā pihuṇahattheṇa ||*10.5||
+vā celeṇa vā cela-kaṇṇeṇa vā hattheṇa vā ||*10.6||
+muheṇa vā appaṇo vā kāyaṃ bāhiraṃ vā vi poggalaṃ ||*10.7||
+na phumejjā na vīejjā, annaṃ na phumāvejjā na vīyāvejjā, ||*10.8||
+annaṃ phumantaṃ vā vīyantaṃ vā na samaṇujāṇejjā, ||*10.9||
+jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ vāyāe kāeṇaṃ ||*10.10||
+na karemi na kāravemi karentaṃ pi annaṃ na samaṇujāṇāmi, ||*10.11||
+tassa bhante paḍikkamāmi nindāmi garihāmi ||*10.12||
+appāṇaṃ vosirāmi ||10|| ||*10.13||
+  se bhikkhū vā bhikkhuṇī vā saṃjaya-viraya-paḍihaya ||*11.1||
+paccakkhāya-pāvakamme ||*11.1||
+diyā vā rāo vā egao vā ||*11.2||
+parisā-gao vā sutte vā jāgaramāṇe vā, se bīesu vā ||*11.3||
+bīya-paiṭhesu vā rūḍhesu vā rūḍha-paiṭhesu vā jāesu vā ||*11.4||
+jāya-paiṭhesu vā hariesu vā hariya-paiṭhesu vā chinnesu ||*11.5||
+vā chinna-paiṭhesu vā saccittesu vā saccitta-kolapaḍinissiesu ||*11.6||
+vā na gacchejjā na ciṭhejjā na nisīejjā ||*11.7||
+na tuyaejjā, annaṃ na gacchāvejjā na ciṭhāvejjā ||*11.8||
+na nisīyāvejjā na tuyaāvejjā, annaṃ gacchantaṃ vā ||*11.9||
+ciṭhantaṃ vā nisīyantaṃ vā tuyaantaṃ vā na samaṇujāṇejjā, ||*11.10||
+jāvajjīvāe tivihaṃ tiviheṇaṃ maṇeṇaṃ vāyāe ||*11.11||
+kāeṇaṃ na karemi na kāravemi karentaṃ pi annaṃ na ||*11.12||
+samaṇujāṇāmi, tassa bhante paḍikkamāmi nindāmi ||*11.13||
+garihāmi appāṇaṃ vosirāmi ||11|| ||*11.14||
+  se bhikkhū vā bhikkhuṇī vā saṃjaya-viraya-paḍihaya ||*12.1||
+paccakkhāya-pāvakamme ||*12.1||
+diyā vā rāo vā egao vā parisā-gao ||*12.2||
+vā sutte vā jāgaramāṇe vā, se kīḍaṃ vā payaṅgaṃ ||*12.3||
+vā kunthuṃ vā pipīliyaṃ vā hatthaṃsi vā pāyaṃsi vā ||*12.4||
+bāhuṃsi vā ūruṃsi vā udaraṃsi vā sīsaṃsi vā vatthaṃsi ||*12.5||
+vā (paḍiggahaṃsi vā kambalaṃsi vā pāyapuñchaṇaṃsi ||*12.6||
+vā) rayaharaṇaṃsi vā gocchagaṃsi vā uṇḍuyaṃsi vā daṇḍagaṃsi ||*12.7||
+vā pīḍhagaṃsi vā phalagaṃsi vā sejjaṃsi vā ||*12.8||
+saṃthāragaṃsi vā annayaraṃsi vā taha-ppagāre uvagaraṇajāe ||*12.9||
+tao saṃjayāmeva paḍilehiya paḍilehiya pamajjiya ||*12.10||
+pamajjiya egantamavaṇejjā, no -aṃsaṃghāyamāvajjejjā ||12|| ||*12.11||
+ajayaṃ caramāṇo u | pāṇa-bhūyāi hiṃsaī /
+bandhaī pāvayaṃ kammaṃ, | taṃ se hoi kaḍuyaṃ phalaṃ ||1||
+ajayaṃ ciṭhamāṇo u | pāṇa-bhūyāi hiṃsaī /
+bandhaī pāvayaṃ kammaṃ, | taṃ se hoi kaḍuyaṃ phalaṃ ||2||
+ajayaṃ āsamāṇo u | pāṇa-bhūyāi hiṃmaī /
+bandhaī pāvayaṃ kammaṃ, | taṃ se hoi kaḍuyaṃ phalaṃ ||3||
+ajayaṃ sayamāṇo u | pāṇa-bhūyāi hiṃsaī /
+bandhaī pāvayaṃ kammaṃ, | taṃ se hoi kaḍuyaṃ phalaṃ ||4||
+ajayaṃ bhuñjamāṇo u | pāṇa-bhūyāi hiṃsaī /
+bandhaī pāvayaṃ kammaṃ, | taṃ se hoi kaḍuyaṃ phalaṃ ||5||
+ajayaṃ bhāsamāṇo u | pāṇa-bhūyāi hiṃsaī /
+bandhaī pāvayaṃ kammaṃ, | taṃ se hoi kaḍuyaṃ phalaṃ ||6||
+kahaṃ care? kahaṃ ciṭhe? | kahaṃ āse? kahaṃ sae? /
+kahaṃ bhuñjanto bhāsanto | pāvaṃ kammaṃ na bandhaī? ||7||
+jayaṃ care, jayaṃ ciṭhe, | jayaṃ āse, jayaṃ sae, /
+jayaṃ bhuñjanto bhāsanto | pāvaṃ kammaṃ na bandhaī ||8||
+savva-bhūyappa-bhūyassa | sammaṃ bhūyāi pāsao /
+pihiyāsavassa dantassa | pāvaṃ kammaṃ na bandhaī ||9||
+paḍhamaṃ nāṇaṃ tao dayā, | evaṃ ciṭhai savva-saṃjae, /
+annāṇī kiṃ kāhī | kiṃ vā nāhii cheya pāvagaṃ? ||10||
+soccā jāṇai kallāṇaṃ | soccā jāṇai pāvagaṃ /
+ubhayaṃ pi jāṇaī soccā | jaṃ cheyaṃ taṃ samāyare ||11||
+jo jīve vi na yāṇāi | ajīve vi na yāṇaī /
+jīvājīve ayāṇanto | kaha so nāhī u saṃjamaṃ? ||12||
+jo jīve vi viyāṇāi | ajīve vi viyāṇaī /
+jīvājīve viyāṇanto | so hu nāhī u saṃjamaṃ ||13||
+jayā jīvamajīve ya | do vi ee viyāṇaī /
+tayā gaiṃ bahuvihaṃ | savva-jīvāṇa jāṇaī ||14||
+jayā gaiṃ bahuvihaṃ | savva-jīvāṇa jāṇaī /
+tayā puṇṇaṃ ca pāvaṃ ca | bandhaṃ mokkhaṃ ca jāṇaī ||15||
+jayā puṇṇaṃ ca pāvaṃ ca | bandhaṃ mokkhaṃ ca jāṇaī /
+tayā nivvindae bhoe | je divve je ya māṇuse ||16||
+jayā nivvindae bhoe | je divve je ya māṇuse /
+tayā cayai saṃbhogaṃ | sabbhintara-bāhiraṃ ||17||
+jayā cayai saṃbhogaṃ | sabbhintara-bāhiraṃ /
+tayā muṇḍe bhavittāṇaṃ | pavvaie aṇagāriyaṃ ||18||
+jayā muṇḍe bhavittāṇaṃ | pavvaie aṇagāriyaṃ /
+tayā saṃvaramukkaṭhaṃ | dhammaṃ phāse aṇuttaraṃ ||19||
+jayā saṃvaramukkaṭhaṃ | dhammaṃ phāse aṇuttaraṃ /
+tayā dhuṇai kamma-rayaṃ | abohi-kalusaṃ kaḍaṃ ||20||
+jayā dhuṇai kamma-rayaṃ | abohi-kalusaṃ kaḍaṃ /
+tayā savvattagam nāṇaṃ | daṃsaṇaṃ cābhigacchaī ||21||
+jayā savvatta-gaṃ nāṇaṃ | daṃsaṇaṃ cābhigacchaī /
+tayā logamalogaṃ ca | jiṇo jāṇai kevalī ||22||
+jayā logamalogaṃ ca | jiṇo jāṇai kevalī /
+tayā joge nirumbhittā | selesiṃ paḍivajjaī ||23||
+jayā joge nirumbhittā | selesiṃ paḍivajjaī /
+tayā kammaṃ khavittāṇaṃ | siddhiṃ gacchai nīrao ||24||
+jayā kammaṃ khavittāṇaṃ | siddhiṃ gacchai nīrao /
+tayā loga-matthaya-ttho | siddho bhavai sāsao ||25||
+suha-sāyagassa samaṇassa | sāyāulagassa nigāma-sāissa /
+uccholaṇā-pahoissa | dulahā soggai tārisagassa ||26||
+tavo-guṇa-pahāṇassa | ujju-mai-khanti saṃjama-rayassa /
+parīsahe jiṇantassa | sulahā soggai tārisagassa ||27||
+(pacchā vi te payāyā | khippaṃ gacchanti amara-bhavaṇāiṃ /)
+(jesiṃ pī u tavo saṃjamo ya | khantī ya bambhaceraṃ ca || ||)
+icceyaṃ chajjīvaṇiyaṃ | sammaddiṭhī sayā jae /
+dulahaṃ labhittu sāmaṇṇaṃ | kammuṇā na virāhejjāsi ||28|| tti bemi ||
+|| caturthamadhyayanam ||4||
+ Dasaveyāliya: 5-1 pañcamamadhyayanam || prathama uddeśakaḥ (piṇḍesaṇā) /
+
+saṃpatte bhikkha-kālammi | asaṃbhanto amucchio /
+imeṇa kama-jogeṇa | bhatta-pāṇaṃ gavesae ||1||
+se gāme vā nagare vā | goyaragga-gao muṇī /
+care mandamaṇuvviggo | avvakkhitteṇa ceyasā ||2||
+purao juga-māyāe | pehamāṇo mahiṃ care /
+vajjanto bīya-hariyāiṃ | pāṇe ya daga-maiyaṃ ||3||
+ovāyaṃ visamaṃ khāṇuṃ | vijjalaṃ parivajjae /
+saṃkameṇa na gacchejjā | vijjamāṇe parakkame ||4||
+pavaḍante va se tattha | pakkhalante va saṃjae /
+hiṃsejja pāṇa-bhūyāiṃ | tase aduva thāvare ||5||
+tamhā teṇa na gacchejjā | saṃjae su-samāhie /
+sai anneṇa maggeṇa | jayameva parakkame ||6||
+iṅgālaṃ chāriyaṃ rāsiṃ | tusa-rāsiṃ ca gomayaṃ /
+sasarakkhehi pāehiṃ | saṃjao taṃ naikkame ||7||
+na carejja vāse vāsante | mahiyāe va paḍantie /
+mahā-vāe va vāyante | tiriccha-saṃpāimesu vā ||8||
+na carejja vesa-sāmante | bambhacera-vasāṇue /
+bambhayārissa dantassa | hojjā tattha visottiyā ||9||
+aṇāyaṇe carantassa | saṃsaggīe abhikkhaṇaṃ /
+hojja vayāṇaṃ pīlā | sāmaṇṇammi ya saṃsao ||10||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+vajjae vesa-sāmantaṃ | muṇī egantamassie ||11||
+sāṇaṃ sūyaṃ gāviṃ | dittaṃ goṇaṃ hayaṃ gayaṃ /
+saṃḍibbhaṃ kalahaṃ juddhaṃ | dūrao parivajjae ||12||
+aṇunnae nāvaṇae | appahiṭhe anāule /
+indiyāiṃ jahā bhāgaṃ | damaittā muṇī care ||13||
+davadavassa na gacchejjā | bhāsamāṇo ya goyare /
+hasanto nābhigacchejjā | kulaṃ uccāvayaṃ sayā ||14||
+āloyaṃ thiggalaṃ dāraṃ | saṃdhiṃ daga-bhavaṇāṇi ya /
+caranto na viṇijjhāe | saṅkaṇṭhāṇaṃ vivajjae ||15||
+ranno gahavaīṇaṃ ca | rahasārakkhiyāṇi ya /
+saṃkilesa-karaṃ ṭhāṇaṃ | dūrao parivajjae ||16||
+paḍikuṭha-kulaṃ na pavise, | māmagaṃ parivajjae /
+aciyatta-kulaṃ na pavise, | ciyattaṃ pavise kulaṃ ||17||
+sāṇī-pāvara-pihiyaṃ | appaṇā nāvapaṅgure /
+kavāḍaṃ no paṇollejjā | oggahaṃsi ajāiyā ||18||
+goyaragga-paviṭho u | vacca-muttaṃ na dhārae /
+ogāsaṃ phāsuyaṃ naccā | aṇunnaviya vosire ||19||
+nīya-duvāraṃ tamasaṃ | koṭhagaṃ parivajjae /
+acakkhu-visao jattha | pāṇā duppaḍilehagā ||20||
+jattha pupphāi bīyāiṃ | vippaiṇṇāi koṭhae /
+ahuṇovalittaṃ ollaṃ | daṭhūṇaṃ parivajjae ||21||
+elagaṃ dāragaṃ sāṇaṃ | vacchagaṃ cāvi koṭhae /
+ullaṅghiyā na pavise | viuhittāṇa va saṃjae ||22||
+asaṃsattaṃ paloejjā, | nāidūrāvaloyae /
+upphullaṃ na viṇijjhāe | niyaejja ayampiro ||23||
+aibhūmiṃ na gacchejjā | goyaragga-gao muṇī /
+kalassa bhūmiṃ jāṇittā | miyaṃ bhūmiṃ parakkame ||24||
+tattheva paḍilehejjā | bhūmi-bhāgaṃ viyakkhaṇo /
+siṇāṇassa ya vaccassa | saṃlogaṃ parivajjae ||25||
+daga-maīṇāyāṇe | bīyāṇi hariyāṇi ya /
+parivajjanto ciṭhejjā | savvindiya-samāhie ||26||
+tattha se ciṭhamāṇassa | āhare pāṇa-bhoyaṇaṃ /
+akappiyaṃ na geṇhejjā, | paḍigāhejja kappiyaṃ ||27||
+āharantī siyā tattha | parisāḍejja bhoyaṇaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||28||
+sammaddamāṇī pāṇāṇi | bīyāṇi hariyāṇi ya /
+asaṃjama-kariṃ naccā | tārisaṃ parivajjae ||29||
+sāhau nikkhivittāṇaṃ | saccittaṃ ghaiyāṇi ya, /
+taheva samaṇaṭhāe | udagaṃ saṃpaṇolliyā ||30||
+āgāhaittā calaittā | āhare pāṇa-bhoyaṇaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||31||
+purekammeṇa hattheṇa | davvīe bhāyaṇeṇa vā /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||32||
+evaṃ udaolle sasiṇiddhe | sasarakkhe maiyā ūse /
+hariyāle hiṅgulue | maṇosilā añjaṇe loṇe ||33||
+geruya vaṇṇiya seḍiya | soraṭhiya piṭha kukkusa kae ya /
+ukkaṭhamasaṃsaṭhe | saṃsaṭhe ceva bodhavve ||34||
+asaṃsaṭheṇa hattheṇa | davvīe bhāyaṇeṇa vā /
+dijjamāṇaṃ na icchejjā | pacchākammaṃ jahiṃ bhave ||35||
+sasaṃṭheṇa hattheṇa | davvīe bhāyaṇeṇa vā /
+dijjamāṇaṃ paḍicchejjā | jaṃ tatthesaṇiyaṃ bhave ||36||
+doṇhaṃ tu bhuñjamāṇāṇaṃ | ego tattha nimantae, /
+dijjamāṇaṃ na icchejjā, | chandaṃ se paḍilehae ||37||
+doṇhaṃ tu bhuñjamāṇāṇaṃ | do vi tattha nimantae /
+dijjamāṇaṃ paḍicchejjā | jaṃ tatthesaṇiyaṃ bhave ||38||
+guvviṇīe uvannatthaṃ | vivihaṃ pāṇa-bhoyaṇaṃ /
+bhujjamāṇaṃ vivajjejjā, | bhutta-sesaṃ paḍicchae ||39||
+siyā ya samaṇaṭhāe | guvviṇī kālamāsiṇī /
+uṭhiyā vā nisīejjā | nisannā vā puṇuṭhae ||40||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||41||
+thaṇagaṃ pajjemāṇī | dāragaṃ vā kumāriyaṃ /
+taṃ nikkhivittu royantaṃ | āhare pāṇa-bhoyaṇaṃ ||42||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||43||
+jaṃ bhave bhattapāṇaṃ tu | kappākappammi saṅkiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||44||
+daga-vāraeṇa pihiyaṃ | nīsāe pīḍhaeṇa vā /
+loḍheṇa vā vi leveṇa | sileseṇa va keṇaī ||45||
+taṃ ca ubbhindiuṃ dejjā | samaṇaṭhāe va dāvae /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||46||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+jaṃ jāṇejja suṇejjā vā | "dāṇaṭhā pagaḍaṃ imaṃ" ||47||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||48||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+jaṃ jāṇejja suṇejjā vā | "puṇṇaṭhā pagaḍaṃ imaṃ" ||49||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||50||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+jaṃ jāṇejja suṇejjā vā | "vaṇimaṭhā pagaḍaṃ imaṃ" ||51||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||52||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+jaṃ jāṇejja suṇejjā vā | "samaṇaṭhā pagaḍaṃ imaṃ" ||53||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||54||
+uddesiyaṃ kīyagaḍaṃ | pūī-kammaṃ ca āhaḍaṃ /
+ajjhoyara pāmiccaṃ | mīsa-jāyaṃ ca vajjae ||55||
+uggamaṃ se pucchejjā | kassaṭhā keṇa vā kaḍaṃ /
+soccā nissaṅkiyaṃ suddhaṃ | paḍigāhejja saṃjae ||56||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+pupphesu hojja ummīsaṃ | bīesu hariesu vā ||57||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||58||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+udagammi hojja nikkhittaṃ | uttiṅga-paṇagesu vā ||59||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||60||
+asaṇaṃ pāṇagaṃ vā vi | khāimaṃ sāimaṃ tahā /
+agaṇimmi hojja nikkhittaṃ | taṃ ca saṃghaiyā dae ||61||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||62||
+evaṃ ussakkiyā osakkiyā | ujjāliyā pajjāliyā nivvāviyā /
+ussiñciyānissiñciyā | uvvattiyā oyāriyādae ||63||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||64||
+hojja kaṭhaṃ sile vā vi | iālaṃ vā vi egayā /
+ṭhaviyaṃ saṃkamaṭhāe | taṃ ca hojja calācalaṃ ||65||
+na teṇa bhikkhu gacchejjā, | diṭho tattha asaṃjamo /
+gambhīraṃ jhusiraṃ ceva | savvindiya-samāhie ||66||
+nisseṇiṃ phalagaṃ pīḍhaṃ | ussavittāṇamāruhe /
+mañcaṃ kīlaṃ ca pāsāyaṃ | samaṇaṭhāe va dāvae ||67||
+duruhamāṇī pavaḍejjā | hatthaṃ pāyaṃ va lūsae, /
+puḍhavi-jīve vi hiṃsejjā | je ya taṃ-nissiyā jagā ||68||
+eyārise mahā-dose | jāṇiūṇa mahesiṇo /
+tamhā mālohaḍaṃ bhikkhaṃ | na paḍigeṇhanti saṃjayā ||69||
+kandaṃ mūlaṃ palambaṃ vā | āmaṃ chinnaṃ va sanniraṃ /
+tumbāgaṃ siṅgabaraṃ ca | āmagaṃ parivajjae ||70||
+taheva sattu-cuṇṇāiṃ | kola-cuṇṇāi āvaṇe /
+sakkuliṃ phāṇiyaṃ pūyaṃ | annaṃ vā vi tahāviha ||71||
+vikkāyamāṇaṃ pasaḍhaṃ | raeṇa pariphāsiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||72||
+bahuṇaṭhiyaṃ poggalaṃ | aṇimisaṃ vā bahu-ka- ayaṃ /
+atthiyaṃ tinduyaṃ billaṃ | ucchu-khaṇḍaṃ ca sambaliṃ ||73||
+appe siyā bhoyaṇa-jjāe | bahuṇujjhiya-dhammie /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||74||
+tahevuccāvayaṃ pāṇaṃ | aduvā vāra-dhoyaṇaṃ /
+saṃseimaṃ cāulogadaṃ | ahuṇā-dhoyaṃ vivajjae ||75||
+jaṃ jāṇejja cirādhoyaṃ | maīe daṃsaṇeṇa vā /
+paḍipucchiūṇa soccā vā | jaṃ ca nissaṅkiyaṃ bhave ||76||
+ajīvaṃ pariṇayaṃ naccā | paḍigāhejja saṃjae /
+aha saṅkiyaṃ bhavejjā | āsāittāṇa royae ||77||
+"thovamāsāyaṇaṭhāe | hatthagammi dalāhi me /
+mā me accambilaṃ pūiṃ, | nālaṃ taṇhaṃ viṇettae" ||78||
+taṃ ca accambilaṃ pūiṃ | nālaṃ taṇhaṃ viṇettae /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||79||
+taṃ ca hojja akāmeṇaṃ | vimaṇeṇa paḍicchiyaṃ /
+taṃ appaṇā na pibe, | no vi annassa dāvae ||80||
+egantamavakkamittā | acittaṃ paḍilehiyā /
+jayaṃ pariṭhavejjā, | pariṭhappa paḍikkame ||81||
+siyā ya goyaragga-gao | icchejjā paribhottuyaṃ /
+koṭhagaṃ bhitti-mūlaṃ vā | paḍilehittāṇa phāsuyaṃ ||82||
+aṇunnavettu mehāvī | paḍicchannammi saṃvuḍe /
+hatthagaṃ saṃpamajjittā | tattha bhuñjejja saṃjae ||83||
+tattha se bhuñjamāṇassa | aṭhiyaṃ ka- ao siyā /
+taṇa-kaṭha-sakkaraṃ vā vi | annaṃ vā vi tahāvihaṃ ||84||
+taṃ ukkhivittu na nikkhive, | āsaeṇa na chaḍḍae /
+hattheṇa taṃ gaheūṇaṃ | egantamavakkame ||85||
+egantamavakkamittā | acittaṃ paḍilehiyā /
+jayaṃ pariṭhavejjā, | pariṭhappa paḍikkame ||86||
+siyā ya bhikkhu icchejjā | sejjamāgamma bhottuyaṃ /
+sa-piṇḍapāyamāgamma | uḍuyaṃ paḍilehiyā ||87||
+viṇaeṇa pavisittā | sagāse guruṇo muṇī /
+iriyāvahiyamāyāya | āgao ya paḍikkame ||88||
+ābhoettāṇa nīsesaṃ | aiyāraṃ jaha-kkamaṃ / 
+gamaṇāgamaṇe ceva | bhattapāṇe va saṃjae ||89||
+ujjuppanno aṇuvviggo | avvakkhitteṇa ceyasā /
+āloe guru-sagāse | jaṃ jahā gahiyaṃ bhave ||90||
+na sammamāloiyaṃ hojjā | puvviṃ pacchā va jaṃ kaḍaṃ /
+puṇo paḍikkame tassa, | vosiṭho cintae imaṃ ||91||
+aho jiṇehi asāvajjā | vittī sāhūṇa desiyā /
+mokkha-sāhaṇaheussa | sāhu-dehassa dhāraṇā ||92||
+namokkāreṇa pārettā | karettā jiṇa-saṃthavaṃ /
+sajjhāyaṃ paṭhavettāṇaṃ | vīsamejja khaṇaṃ muṇī ||93||
+vīsamanto imaṃ cinte | hiyamaṭhaṃ lābhamaṭhio /
+jaha me aṇuggahaṃ kujjā | sāhū, hojjāmi tārio ||94||
+sāhavo to ciyatteṇaṃ | nimantejja jahakkamaṃ, /
+jai tattha kei icchejjā | tehiṃ saddhiṃ tu bhuñjae ||95||
+aha koī na icchejjā | tao bhuñjejja egao /
+āloe bhāyaṇe sāhū | jayaṃ aparisāḍiyaṃ ||96||
+tittagaṃ va kaḍuyaṃ va kasāyaṃ | ambilaṃ va mahuraṃ lavaṇaṃ vā /
+eyaṃ laddhamannaṭha-pauttaṃ | mahu-ghayaṃ va bhuñjejja saṃjae ||97||
+arasaṃ virasaṃ vā vi | sūiyaṃ vā asūiyaṃ /
+ollaṃ vā jai vā sukkaṃ | manthu-kummāsa-bhoyaṇaṃ ||98||
+uppannaṃ nāihīlejjā | appaṃ vā bahu phāsuyaṃ, /
+muhā-laddhaṃ muhā-jīvī | bhuñjejjā dosa-vajjiyaṃ ||99||
+dullahā u muhā-dāī, | muhā-jīvī vi dullahā, /
+muhā-dāī muhā-jīvī | do vi gacchanti soggaiṃ ||100|| ti bemi ||
+|| pañcamamadhyayanam ||5-1||
+
+Dasaveyāliya: 5-2 pañcamamadhyayanam || dvitīya uddeśakaḥ /
+
+paḍiggahaṃ saṃlihittāṇaṃ | leva-māyāe saṃjae /
+dugandhaṃ vā sugandhaṃ vā | savvaṃ bhuñje, na chaḍḍae ||1||
+sejjā nisīhiyāe | samāvanno ya goyare /
+āyāvayaṭhā bhoccāṇaṃ | jai teṇa na saṃthare ||2||
+tao kāraṇamuppanne | bhattapāṇaṃ gavesae /
+vihiṇā puvva-vutteṇa | imeṇaṃ uttareṇa ya ||3||
+kāleṇa nikkhame bhikkhū, | kāleṇa ya paḍikkame /
+akālaṃ ca vivajjettā | kāle kālaṃ samāyare ||4||
+"akāle carasi bhikkhū, | kālaṃ na paḍilehasi /
+appāṇaṃ ca kilāmesi, | sannivesaṃ ca garihasi" ||5||
+sai kāle care bhikkhū, | kujjā purisakāriyaṃ /
+"alābho" tti na soejjā, | "tavo" tti ahiyāsae ||6||
+tahevuccāvayā pāṇā | bhattaṭhāe samāgayā /
+taṇujuyaṃ na gacchejjā, | jayameva parakkame ||7||
+goyaragga-paviṭho u | na nisīejja katthaī /
+kahaṃ ca na pabandhejjā | ciṭhittāṇa va saṃjae ||8||
+aggalaṃ phalihaṃ dāraṃ | kavāḍaṃ vā vi saṃjae /
+avalambiyā na ciṭhejjā | goyaragga-gao muṇī ||9||
+samaṇaṃ māhaṇaṃ vā vi | kiviṇaṃ vā vaṇīmagaṃ /
+uvasaṃkamantaṃ bhattaṭhā | pāṇaṭhāe va saṃjae ||10||
+taṃ aikkamittu na pavise, | na ciṭhe cakkhu-goyare /
+egantamavakkamittā | tattha ciṭhejja saṃjae ||11||
+vaṇīmagassa vā tassa | dāyagassubhayassa vā /
+appattiyaṃ siyā hojjā | lahuttaṃ pavayaṇassa vā ||12||
+paḍisehie va dinne vā | tao tammi niyattie /
+uvasaṃkamejja bhattaṭhā | pāṇaṭhāe va saṃjae ||13||
+uppalaṃ paumaṃ vā vi | kumuyaṃ vā magadantiyaṃ /
+annaṃ vā puppha saccittaṃ | taṃ ca saṃluñciyā dae ||14||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||15||
+uppalaṃ paumaṃ vā vi | kumuyaṃ vā magadantiyaṃ /
+annaṃ vā puppha saccittaṃ | taṃ ca sammaddiyā dae ||16||
+taṃ bhave bhattapāṇaṃ tu | saṃjayāṇa akappiyaṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||17||
+sāluyaṃ vā birāliyaṃ | kumuyaṃ uppala-nāliyaṃ /
+muṇāliyaṃ sāsava-nāliyaṃ | ucchu-kkhaṇḍaṃ anivvuḍaṃ ||18||
+taruṇagaṃ vā pavālaṃ | rukkhassa taṇagassa vā /
+annassa vā vi hariyassa | āmagaṃ parivajjae ||19||
+taruṇiyaṃ vā chevāḍiṃ | āmiyaṃ bhajjiyaṃ saiṃ /
+dentiyaṃ paḍiyāikkhe | "na me kappai tārisaṃ" ||20||
+tahā kolamaṇassinnaṃ | veluyaṃ kāsava-nāliyaṃ /
+tila-pappaḍagaṃ nīmaṃ | āmagaṃ parivajjae ||21||
+taheva cāulaṃ piṭhaṃ | viyaḍaṃ vā tatta-nivvuḍaṃ /
+tila-piṭha pūi-pinnāgaṃ | āmagaṃ parivajjae ||22||
+kaviṭhaṃ māula-gaṃ ca | mūlagaṃ mūlagattiyaṃ /
+āmaṃ a-sattha-pariṇayaṃ | maṇasā vi na patthae ||23||
+taheva phala-manthūṇi | bīya-manthūṇi jāṇiyā /
+bihelagaṃ piyālaṃ ca | āmagaṃ parivajjae ||24||
+samuyāṇaṃ care bhikkhū | kulaṃ uccāvayaṃ sayā /
+nīyaṃ kulamaikkamma | ūsaḍhaṃ nābhidhārae ||25||
+adīṇo vittimesejjā | na visīejja paṇḍie /
+amucchio bhoyaṇammi | māya-nne esaṇā-rae ||26||
+"bahuṃ para-ghare atthi | vivihaṃ khāima-sāimaṃ" /
+na tattha paṇḍio kuppe, | icchā dejja paro na vā ||27||
+sayaṇāsaṇa-vatthaṃ vā | bhattapāṇaṃ va saṃjae /
+adentassa na kuppejjā | paccakkhe vi ya dīsao ||28||
+itthiyaṃ purisaṃ vā vi | ḍaharaṃ vā mahallagaṃ /
+vandamāṇaṃ na jāejjā, | no ya -aṃ pharusaṃ vae ||29||
+je na vande na se kuppe, | vandio na samukkase, /
+evamannesamāṇassa | sāmaṇṇamaṇuciṭhaī ||30||
+siyā egaīo laddhuṃ | lobheṇa viṇigūhaī /
+"mā meyaṃ dāiyaṃ santaṃ | daṭhūṇaṃ sayamāyae" ||31||
+attaṭhā-guruo luddho | bahuṃ pāvaṃ pakuvvaī /
+duttosao ya se hoi, | nivvāṇaṃ ca na gacchaī ||32||
+siyā egaīo laddhuṃ | vivihaṃ pāṇa-bhoyaṇaṃ /
+bhaddagaṃ bhaddagaṃ bhoccā | vivaṇṇaṃ virasamāhare ||33||
+jāṇantu tā ime samaṇā | "āyayaṭhī ayaṃ muṇī /
+saṃtuṭho sevaī pantaṃ | lūha-vittī sutosao" ||34||
+pūyaṇaṭhā jaso-kāmī | māṇa-sammāṇa-kāmae /
+bahuṃ pasavaī pāvaṃ, | māyā-sallaṃ ca kuvvaī ||35||
+suraṃ vā meragaṃ vā vi | annaṃ vā majjagaṃ rasaṃ /
+sa-sakkhaṃ na pibe bhikkhū | jasaṃ sārakkhamappaṇo ||36||
+piyā egaīo teṇo | na me koi viyāṇaī /
+tassa passaha dosāiṃ, | niyaḍiṃ ca suṇeha me ||37||
+vaḍḍhaī soṇḍiyā tassa | māyā-mosaṃ ca bhikkhuṇo /
+ayaso ya anivvāṇaṃ | sayayaṃ ca asāhuyā ||38||
+niccuvviggo jahā teṇo | atta-kammehi dummaī /
+tāriso maraṇante vi | nārāhei saṃvaraṃ ||39||
+āyarie nārāhei | samaṇe yāvi tāriso /
+gihatthā vi -aṃ garahanti | jeṇa jāṇanti tārisaṃ ||40||
+evaṃ tu aguṇa-ppehī | guṇāṇaṃ ca vivajjao /
+tāriso maraṇante vi | nārāhei saṃvaraṃ ||41||
+tavaṃ kuvvai mehāvī, | paṇīyaṃ vajjae rasaṃ /
+majja-ppamāya-virao | tavassī aiukkaso ||42||
+tassa passaha kallāṇaṃ | aṇega-sāhu-pūiyaṃ /
+viulaṃ attha-saṃjuttaṃ | kittaissaṃ, suṇeha me ||43||
+evaṃ tu guṇa-ppehī | aguṇāṇaṃ ca vivajjao /
+tāriso maraṇante vi | ārāhei saṃvaraṃ ||44||
+āyarie ārāhei | samaṇe yāvi tāriso /
+gihatthā vi -aṃ pūyanti | jeṇa jāṇanti tārisaṃ ||45||
+tava-teṇe vai-teṇe | rūva-teṇe ya je nare /
+āyāra-bhāva-teṇe ya | kuvvaī deva-kibbisaṃ ||46||
+laddhūṇa vi devattaṃ | uvavanno deva-kibbise /
+tatthāvi se na yāṇāi | `kiṃ me kiccā imaṃ phalaṃch` ||47||
+tatto vi se caittāṇaṃ | labbhihī ela-mūyagaṃ /
+narayaṃ tirikkha-joṇiṃ vā | bohī jattha su-dullahā ||48||
+eyaṃ ca dosaṃ daṭhūṇaṃ | nāyaputteṇa bhāsiyaṃ /
+aṇu-māyaṃ pi mehāvī | māyā-mosaṃ vivajjae ||49||
+sikkhiūṇa bhikkhesaṇa-sohiṃ | saṃjayāṇa buddhāṇa sagāse /
+tattha bhikkhū suppaṇihiindie | tivva-lajja guṇavaṃ viharejjāsi ||50|| tti bemi ||
+|| pañcamamadhyayanam ||5-2||
+
+Dasaveyāliya: 6 ṣaṣṭhamamadhyayanam (dhammaṭhakahā.) /
+
+nāṇa-daṃsaṇa-saṃpannaṃ | saṃjame ya tave rayaṃ /
+gaṇimāgama-saṃpannaṃ | ujjāṇammi samosaḍhaṃ ||1||
+rāyāṇo rāyamaccā ya | māhaṇā aduva khattiyā /
+pucchanti nihuyappāṇo | kahaṃ bhe āyāra-goyaro? ||2||
+tesiṃ so nihuo danto | savva-bhūya-suhāvaho /
+sikkhāe su-samāutto | āikkhai viyakkhaṇo ||3||
+handi dhammattha-kāmāṇaṃ | nigganthāṇaṃ suṇeha me /
+āyāra-goyaraṃ bhīmaṃ | sayalaṃ durahiṭhiyaṃ ||4||
+nannattha erisaṃ vuttaṃ | jaṃ loe parama-duccaraṃ /
+viulaṇṭhāṇa-bhāissa | na bhūyaṃ na bhavissaī ||5||
+sa-khuḍḍaga-viyattāṇaṃ | vāhiyāṇaṃ ca je guṇā /
+akhaṇḍa-kuḍiyā kāyavvā | taṃ suṇeha jahā tahā ||6||
+dasa aṭha ya ṭhāṇāiṃ | jāiṃ bālo 'varajjhaī /
+tattha annayare ṭhāṇe | nigganthattāo bhassaī ||7||
+vaya-chakka kāya-chakkaṃ | akappo gihi-bhāyaṇaṃ /
+paliyaṅka nisejjā ya | siṇāṇaṃ sobha-vajjaṇaṃ ||8||
+tatthimaṃ paḍhamaṃ ṭhāṇaṃ | mahāvīreṇa desiyaṃ /
+ahiṃsā niuṇā diṭhā | savvabhūesu saṃjamo ||9||
+jāvanti loe pāṇā | tasā aduva thāvarā /
+te jāṇamajāṇaṃ vā | na haṇe no va ghāyae ||10||
+savva-jīvā vi icchanti | jīviuṃ na marijjiuṃ /
+tamhā pāṇa-vahaṃ ghoraṃ | nigganthā vajjayanti -aṃ ||11||
+appaṇaṭhā paraṭhā vā | kohā vā jai vā bhayā /
+hiṃsagaṃ na musaṃ būyā | no vi annaṃ vayāvae ||12||
+musā-vāo ya logammi | savva-sāhūhi garahio /
+avissāso ya bhūyāṇaṃ, | tamhā mosaṃ vivajjae ||13||
+cittamantamacittaṃ vā | appaṃ vā jai vā bahuṃ /
+danta-sohaṇa-mettaṃ pi | oggahaṃsi ajāiyā ||14||
+taṃ appaṇā na geṇhanti | no vi geṇhāvae paraṃ /
+annaṃ vā geṇhamāṇaṃ pi | nāṇujāṇanti saṃjayā ||15||
+abambhacariyaṃ ghoraṃ | pamāyaṃ durahiṭhiyaṃ /
+nāyaranti muṇī loe | bheyāyayaṇa-vajjiṇo ||16||
+mūlameyamahammassa | mahādosa-samussayaṃ /
+tamhā mehuṇa-saṃsaggaṃ | nigganthā vajjayanti -aṃ ||17||
+viḍamubbheimaṃ loṇaṃ | tellaṃ sappiṃ ca phāṇiyaṃ /
+na te sannihimicchanti | nāyaputta-vao-rayā ||18||
+lobhassesaṇuphāse | manne annayarāmavi /
+je siyā sannihī-kāme | gihī pavvaie na se ||19||
+jaṃ pi vatthaṃ va pāyaṃ vā | kambalaṃ pāyapuñchaṇaṃ /
+taṃ pi saṃjama-lajjaṭhā | dhārenti pariharanti ya ||20||
+na so pariggaho vutto | nāyaputteṇa tāiṇā /
+"mucchā pariggaho vutto" | ii vuttaṃ mahesiṇā ||21||
+savvatthuvahiṇā buddhā | saṃrakkhaṇa-pariggahe /
+avi appaṇo vi dehammi | nāyaranti mamāiyaṃ ||22||
+aho niccaṃ tavo-kammaṃ | savva-buddehi vaṇṇiyaṃ /
+jā ya lajjā-samā vittī | ega-bhattaṃ ca bhoyaṇaṃ ||23||
+santime suhumā pāṇā | tasā aduva thāvarā /
+jāiṃ rāo apāsanto | kahamesaṇiyaṃ care? ||24||
+udaollaṃ bīya-saṃsattaṃ | pāṇā nivvaḍiyā mahiṃ /
+diyā tāiṃ vivajjejjā, | rāo tattha kahaṃ care? ||25||
+eyaṃ ca dosaṃ daṭhūṇaṃ | nāyaputteṇa bhāsiyaṃ /
+savvāhāraṃ na bhuñjanti | nigganthā rāibhoyaṇaṃ ||26||
+puḍhavikāyaṃ na hiṃsanti | maṇasā vayasa kāyasā /
+tiviheṇa karaṇa-joeṇa | saṃjayā su-samāhiyā ||27||
+puḍhavikāyaṃ vihiṃsanto | hiṃsaī u tayassie /
+tase ya vivihe pāṇe | cakkhuse ya acakkhuse ||28||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+puḍhavikāya-samārambhaṃ | jāvajjīvāe vajjae ||29||
+āukāyaṃ na hiṃsanti | maṇasā vayasa kāyasā /
+tiviheṇa karaṇa-joeṇa | saṃjayā su-samāhiyā ||30||
+āukāyaṃ vihiṃsanto | hiṃsaī u tayassie /
+tase ya vivihe pāṇe | cakkhuse ya acakkhuse ||31||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+āukāya-samārambhaṃ | jāvajjīvāe vajjae ||32||
+jāyateyaṃ na icchanti | pāvagaṃ jalaittae /
+tikkhamannayaraṃ satthaṃ | savvao vi durāsayaṃ ||33||
+pāīṇaṃ paḍiṇaṃ vā vi | uḍḍhaṃ aṇudisāmavi /
+ahe dāhiṇao vā vi | dahe uttarao vi ya ||34||
+bhūyāṇamesamāghāo | havvavāho, na saṃsao /
+taṃ paīva-payāvaṭhā | saṃjayā kiṃci nārabhe ||35||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+teukāya-samārambhaṃ | jāvajjīvāe vajjae ||36||
+anilassa samārambhaṃ | buddhā mannanti tārisaṃ /
+sāvajja-bahulaṃ ceyaṃ, | neyaṃ tāīhi seviyaṃ ||37||
+tāliya- eṇa patteṇa | sāhā-vihuyaṇeṇa vā /
+na te vīīumicchanti | vīyāveūṇa vā paraṃ ||38||
+jaṃ pi vatthaṃ va pāyaṃ vā | kambalaṃ pāyapuñchaṇaṃ /
+na te vāyamuīranti | jayaṃ pariharanti ya ||39||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+vāukāya-samārambhaṃ | jāvajjīvāe vajjae ||40||
+vaṇassaiṃ na hiṃsanti | maṇasā vayasa kāyasā /
+tiviheṇa karaṇa-joeṇa | saṃjayā su-samāhiyā ||41||
+vaṇassaiṃ vihiṃsanto | hiṃsaī u tayassie /
+tase ya vivihe pāṇe | cakkhuse ya acakkhuse ||42||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+vaṇassai-samārambhaṃ | jāvajjīvāe vajjae ||43||
+tasakāyaṃ na hiṃsanti | maṇasā vayasa kāyasā /
+tiviheṇa karaṇa-joeṇa | saṃjayā su-samāhiyā ||44||
+tasakāyaṃ vihiṃsanto | hiṃsaī u tayassie /
+tase ya vivihe pāṇe | cakkhuse ya acakkhuse ||45||
+tamhā eyaṃ viyāṇittā | dosaṃ duggai-vaḍḍhaṇaṃ /
+tasakāya-samārambhaṃ | jāvajjīvāe vajjae ||46||
+jāiṃ cattāri 'bhojjāiṃ | isiṇāhāra-māīṇi /
+tāiṃ tu vivajjanto | saṃjamaṃ aṇupālae ||47||
+piṇḍaṃ sejjaṃ ca vatthaṃ ca | cautthaṃ pāyameva ya /
+akappiyaṃ na icchejjā, | paḍigāhejja kappiyaṃ ||48||
+je niyāgaṃ mamāyanti | kīyamuddesiyāhaḍaṃ /
+vahaṃ te samaṇujāṇanti | ii vuttaṃ mahesiṇā ||49||
+tamhā asaṇa-pāṇāī | kīyamuddesiyāhaḍaṃ /
+vajjayanti ṭhiyappāṇo | nigganthā dhamma-jīviṇo ||50||
+kaṃsesu kaṃsa-pāesu | kuṇḍa-moesu vā puṇo /
+bhuñjanto asaṇa-pāṇāī | āyārā paribhassaī ||51||
+sīodaga-samārambhe | matta-dhoyaṇa-chaḍḍaṇe /
+jāiṃ chaṇṇanti bhūyāiṃ | diṭho tattha asaṃjamo ||52||
+pacchākammaṃ purekammaṃ | siyā tattha na kappaī /
+eyamaṭhaṃ na bhūñjanti | nigganthā gihi-bhāyaṇe ||53||
+āsandī-paliyaṅkesu | mañca-māsālaesu vā /
+aṇāyariyamajjāṇaṃ | āsaittu saittu vā ||54||
+nāsandī-paliyaṅkesu | na nisejjā na pīḍhae /
+nigganthā 'paḍilehāe | buddha-vuttamahiṭhagā ||55||
+gambhīra-vijayā ee | pāṇā duppaḍilehagā, /
+āsandī-paliyaṅkā ya | eyamaṭhaṃ vivajjiyā ||56||
+goyaragga-paviṭhassa | nisejjā jassa kappaī /
+imerisamaṇāyāraṃ | āvajjai abohiyaṃ ||57||
+vivattī bambhacerassa | pāṇāṇaṃ ca vahe vaho /
+vaṇīmaga-paḍīghāo | paḍikoho yagāriṇaṃ ||58||
+aguttī bambhacerassa | itthīo yāvi saṅkaṇaṃ /
+kusīla-vaḍḍhaṇaṃ ṭhāṇaṃ | dūrao parivajjae ||59||
+tiṇhamannayarāgassa | nisejjā jassa kappaī /
+jarāe abhibhūyassa | vāhiyassa tavassiṇo ||60||
+vāhio vā arogī vā | siṇāṇaṃ jo u patthae /
+vokkanto hoi āyāro, | jaḍho havai saṃjamo ||61||
+santime suhumā pāṇā | ghasāsu bhilagāsu ya /
+je u bhikkhū siṇāyanto | viyaḍeṇuppalāvae ||62||
+tamhā te na siṇāyanti | sīeṇa usiṇeṇa vā /
+jāvajjīvaṃ vayaṃ ghoraṃ | asiṇāṇamahiṭhagā ||63||
+siṇāṇaṃ aduvā kakkaṃ | loddhaṃ paumagāṇi ya /
+gāyassuvvaaṇaṭhāe | nāyaranti kayāi vi ||64||
+nagiṇassa vā vi muṇḍassa | dīha-roma-nahaṃsiṇo /
+mehuṇā uvasantassa | kiṃ vibhūsāe kāriyaṃ! ||65||
+vibhūsā-vattiyaṃ bhikkhū | kammaṃ bandhai cikkaṇaṃ /
+saṃsāra-sāyare ghore | jeṇaṃ paḍai duruttare ||66||
+vibhūsā-vattiyaṃ ceyaṃ | buddhā mannanti tārisaṃ /
+sāvajjā-bahulaṃ ceyaṃ, | neyaṃ tāīhi seviyaṃ ||67||
+khaventi appāṇamamoha-daṃsiṇo | tave rayā saṃjama ajjave guṇe /
+dhuṇanti pāvāi pure-kaḍāiṃ, | navāi pāvāi na te karenti ||68||
+saovasantā amamā akiṃcaṇā | sa-vijja-vijjāṇugayā jasaṃsiṇo /
+uu-ppasanne vimale va candimā | siddhiṃ vimāṇāi uventi tāiṇo ||69|| tti bemi ||
+|| ṣaṣṭhamamadhyayanam ||6||
+
+Dasaveyāliya: 7 saptamamadhyayanam (vakkasuddhī.) /
+
+cauṇhaṃ khalu bhāsāṇaṃ | parisaṃkhāya pannavaṃ /
+doṇhaṃ tu viṇayaṃ sikkhe, | do na bhāsejja savvaso ||1||
+jā ya saccā avattavvā | saccāmosā ya jā musā /
+jā ya buddhehi 'āiṇṇā | na taṃ bhāsejja pannavaṃ ||2||
+asaccamosaṃ saccaṃ ca | aṇavajjamakakkasaṃ /
+samuppehamasaṃdiddhaṃ | giraṃ bhāsejja pannavaṃ ||3||
+eyaṃ ca aṭhamannaṃ vā | jaṃ tu nāmei sāsayaṃ /
+sa bhāsaṃ saccamosaṃ pi | taṃ pi dhīro vivajjae ||4||
+vitahaṃ pi tahāmottiṃ | jaṃ giraṃ bhāsae naro /
+tamhā so puṭho pāveṇaṃ, | kiṃ puṇa jo musaṃ vae ||5||
+tamhā `gacchāmo, vakkhāmo, | amugaṃ vā -e bhavissaī /
+ahaṃ vā -aṃ karissāmi, | eso vā -aṃ karissaī` ||6||
+evamāī u jā bhāsā | esa-kālammi saṅkiyā /
+saṃpayāīya-maṭhe vā | taṃ pi dhīro vivajjae ||7||
+aīyammi ya kālammī | paccuppanna-maṇāgae /
+jamaṭhaṃ tu na jāṇejjā | `evameyaṃ` ti no vae ||8||
+aīyammi ya kālammī | paccuppanna-maṇāgae /
+jattha saṅkā bhave taṃ tu | `evameyaṃ` ti no vae ||9||
+aīyammi ya kālammī | paccuppanna-maṇāgae /
+nissaṅkiyaṃ bhave jaṃ tu | `evameyaṃ` ti niddise ||10||
+taheva pharusā bhāsā | guru-bhūāvaghāiṇī /
+saccā vi sā na vattavvā | jao pāvassa āgamo ||11||
+taheva kāṇaṃ `kāṇe` tti | paṇḍagaṃ `paṇḍage` tti vā /
+vāhiyaṃ vā vi `rogi` tti | teṇaṃ `core` tti no vae ||12||
+eeṇanneṇa aṭheṇa | paro jeṇuvahammaī /
+āyāra-bhāva-dosa-nnū | na taṃ bhāsejja pannavaṃ ||13||
+taheva `hole` `gole` tti | `sāṇe` vā `vasule` tti ya /
+`damae` `dūhae` vā vi | na taṃ bhāsejja pannavaṃ ||14||
+ajjie pajjie vā vi | ammo māusiu tti ya /
+piussie bhāiṇejja tti | dhūe nattuṇie tti ya ||15||
+hale hale tti anne tti | bhae sāmiṇi gomiṇi /
+hole gole vasule tti | itthiyaṃ nevamālave ||16||
+nāmadhejjeṇa -aṃ būyā | itthī-gotteṇa vā puṇo /
+jahārihamabhigijjha | ālavejja lavejja vā ||17||
+ajjae pajjae vā vi | bappo culla-piu tti ya /
+māulā bhāiṇejja tti | putte nattuṇiya tti ya ||18||
+he ho hale tti anna tti | bhaā sāmiya gomiya /
+hola gola vasula tti | purisaṃ nevamālave ||19||
+nāmadhejjeṇa -aṃ būyā | purisa-gotteṇa vā puṇo /
+jahārihamabhigijjha | ālavejja lavejja vā ||20||
+pañcindiyāṇa pāṇāṇaṃ | `esa itthī, ayaṃ pumaṃ` /
+jāva -aṃ na vijāṇejjā | tāva jāi tti ālave ||21||
+taheva maṇusaṃ pasuṃ | pakkhiṃ vā vi sarīsivaṃ /
+`thūle pameile vajjhe | pāime` tti ya no vae ||22||
+parivuḍḍhe tti -aṃ būyā, | būyā uvacie tti ya /
+saṃjāe pīṇie vā vi | mahākāe tti ālave ||23||
+taheva gāo dujjhāo, | dammā go-rahaga tti ya /
+vāhimā raha-jogga tti, | nevaṃ bhāsejja pannavaṃ ||24||
+juvaṃ-gave tti -aṃ būyā, | dheṇuṃ rasadaya tti ya /
+rahasse mahallae vā vi | vae saṃvahaṇe tti ya ||25||
+taheva gantumujjāṇaṃ | pavvayāṇi vaṇāṇi ya /
+rukkhā mahalla pehāe | nevaṃ bhāsejja pannavaṃ ||26||
+alaṃ pāsāya-khambhāṇaṃ | toraṇāṇaṃ gihāṇa ya /
+phalihaggala-nāvāṇaṃ | alaṃ udaga-doṇiṇaṃ ||27||
+pīḍhae caṅgabere ya | naṅgale maiye siyā /
+janta-laṭhī va nābhī vā | gaṇḍiyā va alaṃ siyā ||28||
+āsaṇaṃ sayaṇaṃ jāṇaṃ | hojjā vā kiṃcuvassae /
+bhūovaghāiṇiṃ bhāsaṃ | nevaṃ bhāsejja pannavaṃ ||29||
+taheva gantumujjāṇaṃ | pavvayāṇi vaṇāṇi ya /
+rukkhā mahalla pehāe | evaṃ bhāsejja pannavaṃ ||30||
+jāimantā ime rukkhā | dīha-vaā mahālayā /
+payāya-sālā viḍimā | vae darisaṇi tti ya ||31||
+tahā phalāi pakkāiṃ | pāya-khajjāi no vae /
+veloiyāi ālāiṃ | vehimāiṃ ti no vae ||32||
+asaṃghaḍā ime ambā | bahu-nivvaimā phalā /
+vaejja bahu-saṃbhūyā | bhūya-rūva tti vā puṇo ||33||
+tahosahīo pakkāo | nīliyāo chavī i ya /
+lāimā bhajjimāo tti | pihu-khajja tti no vae ||34||
+rūḍhā bahu-saṃbhūyā | thirā ūsaḍhā vi ya /
+gabbhiyāo pasūyāo | sasārāo tti ālave ||35||
+taheva saṃkhaḍiṃ naccā | kiccaṃ kajjaṃ ti no vae /
+teṇagaṃ vā vi vajjhe tti, | su-titthe tti ya āvagā ||36||
+saṃkhaḍiṃ saṃkhaḍiṃ būyā, | paṇiyaṭhaṃ ti teṇagaṃ, /
+`bahu-samāṇi titthāṇi | āvagāṇaṃ` viyāgare ||37||
+tahā naīo puṇṇāo | kāya-tijja tti no vae /
+nāvāhi tārimāo tti | pāṇi-pejja tti no vae ||38||
+bahu-vāhaḍā agāhā | bahu-saliluppilodagā /
+bahu-vitthaḍodagā yāvi, | evaṃ bhāsejja pannavaṃ ||39||
+taheva sāvajjaṃ jogaṃ | parassaṭhāe niṭhiyaṃ /
+kīramāṇaṃ ti vā naccā | sāvajjaṃ nālave muṇī ||40||
+sukaḍe tti supakke tti | suchinne suhaḍe maḍe /
+suniṭhie sulaṭhe tti | sāvajjaṃ vajjae muṇī ||41||
+payatta-pakke tti va pakkamālave, | payatta-chinna tti va chinnamālave, /
+payatta-laṭha tti va kamma-heuyaṃ, | pahāra-gāḍha tti va gāḍhamālave ||42||
+savvukkasaṃ paragghaṃ vā | aulaṃ natthi erisaṃ /
+acakkiyamavattavvaṃ | aciyattaṃ ceva no vae ||43||
+`savvameyaṃ vaissāmi, | savvameyaṃ` tti no vae /
+aṇuvīi savvaṃ savvattha | evaṃ bhāsejja pannavaṃ ||44||
+su-kkiyaṃ vā su-vikkīyaṃ | akijjaṃ kijjameva vā /
+`imaṃ geṇha, imaṃ muñca | paṇiyaṃ` no viyāgare ||45||
+appagghe vā mahagghe vā | kae va vikkae vi vā /
+paṇiyaṭhe samuppanne | aṇavajjaṃ viyāgare ||46||
+tahevāsaṃjayaṃ dhīro | `āsa, ehi karehi vā /
+saya, ciṭha, vayāhi` tti | nevaṃ bhāsejja pannavaṃ ||47||
+bahave ime asāhū | loe vuccanti sāhuṇo /
+na lave asāhuṃ sāhu tti, | sāhuṃ sāhu tti ālave ||48||
+nāṇa-daṃsaṇa-saṃpannaṃ | saṃjame ya tave rayaṃ /
+evaṃ-guṇa-samāuttaṃ | saṃjayaṃ sāhumālave ||49||
+devāṇaṃ maṇuyāṇaṃ ca | tiriyāṇaṃ ca vuggahe /
+amuyāṇaṃ jao hou | mā vā hou tti no vae ||50||
+vāo vuṭhaṃ va sīuṇhaṃ | khemaṃ dhāyaṃ sivaṃ ti vā /
+kayā -u hojja eyāṇi | mā vā hou tti no vae ||51||
+taheva mehaṃ va nahaṃ va māṇavaṃ | na deva deva tti giraṃ vaejjā /
+`sammucchie unnae vā paoe` | vaejja vā `vuṭhe balāhae` tti ||52||
+antalikkha tti -aṃ būyā | gujjhāṇucariya tti ya /
+riddhimantaṃ naraṃ dissa | `riddhimantaṃ` ti ālave ||53||
+taheva sāvajjaṇumoyaṇī girā | ohāriṇī jā ya parovaghāiṇī /
+se koha loha bhayasā va māṇavo | na hāsamāṇo vi giraṃ vaejjā ||54||
+savvakka-suddhiṃ samupehiyā muṇī, | giraṃ ca duṭhaṃ parivajjae sayā /
+miyaṃ aduṭhaṃ aṇuvīi bhāsae | sayāṇa majjhe lahaī pasaṃsaṇaṃ ||55||
+bhāsāe dose ya guṇe ya jāṇiyā | tīse ya duṭhe parivajjae sayā /
+chasu saṃjae sāmaṇie sayā jae | vaejja buddhe hiyamāṇulomiyaṃ ||56||
+parikkha-bhāsī susamāhiindie | caukkasāyāvagae aṇissie /
+sa niddhuṇe dhutta-malaṃ pure-kaḍaṃ, | ārāhae logamiṇaṃ tahā paraṃ ||57|| ti bemi ||
+|| saptamamadhyayanam ||7||
+
+Dasaveyāliya: 8 aṣamamadhyayanam (āyārapaṇihī.) /
+
+āyāra-paṇihiṃ laddhuṃ | jahā kāyavva bhikkhuṇā /
+taṃ bhe udāharissāmi | āṇupuvviṃ, suṇeha me ||1||
+puḍhavi daga agaṇi māruya | taṇa rukkha sa-bīyagā /
+tasā ya pāṇā jīva tti | ii vuttaṃ mahesiṇā ||2||
+tesiṃ acchaṇa-joeṇa | niccaṃ hoyavvayaṃ siyā /
+maṇasā kāya vakkeṇa, | evaṃ bhavai saṃjae ||3||
+puḍhavi bhittiṃ silaṃ leluṃ | neva bhinde na saṃlihe /
+tiviheṇa karaṇa-joeṇa | saṃjae su-samāhie ||4||
+suddha-puḍhavīe na nisie | sasarakkhammi ya āsaṇe /
+pamajjittu nisīejjā | jāittā jassa oggahaṃ ||5||
+sīodagaṃ na sevejjā | silā-vuṭhaṃ himāṇi ya /
+usiṇodagaṃ tatta-phāsuyaṃ | paḍigāhejja saṃjae ||6||
+udaollaṃ appaṇo kāyaṃ | neva puñche na saṃlihe /
+samuppeha tahā-bhūyaṃ | no -aṃ saṃghaae muṇī ||7||
+iṅgālaṃ agaṇiṃ acciṃ | alāyaṃ vā sa-joiyaṃ /
+na uñjejjā na ghaejjā | no -aṃ nivvāvae muṇī ||8||
+tāliya- eṇa patteṇa | sāhā-vihuyaṇeṇa vā /
+na vīejja appaṇo kāyaṃ | bāhiraṃ vā vi poggalaṃ ||9||
+taṇa-rukkhaṃ na chindejjā | phalaṃ mūlaṃ va kassaī /
+āmagaṃ vivihaṃ bīyaṃ | maṇasā vi na patthae ||10||
+gahaṇesu na ciṭhejjā | bīesu hariesu vā /
+udagammi tahā niccaṃ | uttiṅga-paṇagesu vā ||11||
+tase pāṇe na hiṃsejjā | vāyā aduva kammuṇā /
+uvarao savvabhūesu | pāsejja vivihaṃ jagaṃ ||12||
+aṭha suhumāi pehāe | jāiṃ jāṇittu saṃjae /
+dayāhigārī bhūesu | āsa ciṭha saehi vā ||13||
+kayarāi aṭha suhumāiṃ | jāiṃ pucchejja saṃjae? /
+imāi tāi mehāvī | āikkhejja viyakkhaṇe ||14||
+siṇehaṃ puppha-suhumaṃ ca | pāṇuttiṅgaṃ taheva ya /
+paṇagaṃ bīya hariyaṃ ca | aṇḍa-suhumaṃ ca aṭhamaṃ ||15||
+evameyāṇi jāṇittā | savva-bhāveṇa saṃjae /
+appamatte jae niccaṃ | savvindiya-samāhie ||16||
+dhuvaṃ ca paḍilehejjā | jogasā pāya-kambalaṃ /
+sejjamuccārabhūmiṃ ca | saṃthāraṃ aduvāsaṇaṃ ||17||
+uccāraṃ pāsavaṇaṃ | khelaṃ siṅghāṇa-jalliyaṃ /
+phāsuyaṃ paḍilehittā | pariṭhāvejja saṃjae ||18||
+pavisittu parāgāraṃ | pāṇaṭhā bhoyaṇassa vā /
+jayaṃ ciṭhe, miyaṃ bhāse, | na ya rūvesu maṇaṃ kare ||19||
+bahuṃ suṇei kaṇṇehiṃ, | bahuṃ acchīhi pecchaī, /
+na ya diṭhaṃ suyaṃ savvaṃ | bhikkhū akkhāumarihaī ||20||
+suyaṃ vā jai vā diṭhaṃ | na lavejjovaghāiyaṃ /
+na ya keṇai uvāeṇaṃ | gihi-jogaṃ samāyare ||21||
+niṭhāṇaṃ rasa-nijjūḍhaṃ | bhaddagaṃ pāvagaṃ ti vā /
+puṭho vā vi apuṭho vā | lābhālābhaṃ na niddise ||22||
+na ya bhoyaṇammi giddho | care uñchaṃ ayampiro /
+aphāsuyaṃ na bhuñjejjā | kīyamuddesiyāhaḍaṃ ||23||
+sannihiṃ ca na kuvvejjā | aṇu-māyaṃ pi saṃjae /
+muhā-jīvī asaṃbuddhe | havejja jaga-nissie ||24||
+lūha-vittī su-saṃtuṭhe | appicche suhare siyā /
+āsurattaṃ na gacchejjā | soccāṇaṃ jiṇa-sāsaṇaṃ ||25||
+kaṇṇa-sokkhehi saddehiṃ | pemaṃ nābhinivesae /
+dāruṇaṃ kakkasaṃ phāsaṃ | kāeṇa ahiyāsae ||26||
+khuhaṃ pivāsa dussejjaṃ | sīuṇhaṃ araī bhayaṃ /
+ahiyāse avvahio, | dehe dukkhaṃ mahā-phalaṃ ||27||
+atthaṃgayammi āicce | puratthā ya aṇuggae /
+āhāramaiyaṃ savvaṃ | maṇasā vi na patthae ||28||
+atintiṇe acavale | appa-bhāsī miyāsaṇe /
+havejja uyare dante, | thovaṃ laddhuṃ na khiṃsae ||29||
+na bāhiraṃ paribhave, | attāṇaṃ na samukkase, /
+suya-lābhe na majjejjā | jaccā tavasi buddhie ||30||
+se jāṇaṃ ajāṇaṃ vā | kau āhammiyaṃ payaṃ /
+saṃvare khippamappāṇaṃ, | bīyaṃ taṃ na samāyare ||31||
+aṇāyāraṃ parakkamma | neva gūhe, na niṇhave /
+suī sayā viyaḍa-bhāve | asaṃsatte jiindie ||32||
+amohaṃ vayaṇaṃ kujjā | āyariyassa mahappaṇo, /
+taṃ parigijjha vāyāe | kammuṇā uvavāyae ||33||
+adhuvaṃ jīviyaṃ naccā | siddhi-maggaṃ viyāṇiyā /
+viṇiyaejja bhogesu | āuṃ parimiyamappaṇo ||34||
+(balaṃ thāmaṃ ca pehāe | saddhāmārogamappaṇo /)
+(khettaṃ kālaṃ ca vinnāya | tahappāṇaṃ na juñjae || ||)
+jarā jāva na pīlei | vāhī jāva na vaḍḍhaī /
+jāvindiyā na hāyanti | tāva dhammaṃ samāyare ||35||
+kohaṃ māṇaṃ ca māyaṃ ca | lobhaṃ ca pāva-vaḍḍhaṇaṃ /
+vame cattāri dose u | icchanto hiyamappaṇo ||36||
+koho pīiṃ paṇāsei, | māṇo viṇaya-nāsaṇo /
+māyā mittāṇi nāsei, | lobho savva-viṇāsaṇo ||37||
+uvasameṇa haṇe kohaṃ, | māṇaṃ maddavayā jiṇe /
+māyaṃ cajjava-bhāveṇa, | lobhaṃ saṃtosao jiṇe ||38||
+koho ya māṇo ya aṇiggahīyā | māyā ya lobho ya pavaḍḍhamāṇā /
+cattāri ee kasiṇā kasāyā | siñcanti mūlāi puṇabbhavassa ||39||
+rāiṇiesu viṇayaṃ pauñje, | dhuva-sīlayaṃ sayayaṃ hāvaejjā /
+kummo vva allīṇa-palīṇa-gutto | parakkamejjā tava-saṃjamammi ||40||
+niddaṃ ca na bahu-mannejjā, | sa-ppahāsaṃ vivajjae /
+miho-kahāhiṃ na rame | sajjhāyammi rao sayā ||41||
+jogaṃ ca samaṇa-dhammammi | juñje aṇalaso dhuvaṃ /
+jutto ya samaṇa-dhammammi | aṭhaṃ lahai aṇuttaraṃ ||42||
+ihaloga-pāratta-hiyaṃ | jeṇaṃ gacchai soggaiṃ /
+bahu-suyaṃ pajjuvāsejjā, | pucchejjattha-viṇicchayaṃ ||43||
+hatthaṃ pāyaṃ ca kāyaṃ ca | paṇihāya jiindie /
+allīṇa-gutto nisie | sagāse guruṇo muṇī ||44||
+na pakkhao na purao | neva kiccāṇa piṭhao /
+na ya ūruṃ samāsejjā | ciṭhejjā guruṇantie ||45||
+apucchio na bhāsejjā | bhāsamāṇassa antarā /
+piṭhi-maṃsaṃ na khāejjā, | māyā-mosaṃ vivajjae ||46||
+appattiyaṃ jeṇa siyā | āsu kuppejja vā paro /
+savvaso taṃ na bhāsejjā | bhāsaṃ ahiya-gāmiṇiṃ ||47||
+diṭhaṃ miyaṃ asaṃdiddhaṃ | paḍipuṇṇaṃ viyañjiyaṃ /
+ayampiramaṇuvviggaṃ | bhāsaṃ nisira attavaṃ ||48||
+āyāra-pannatti-dharaṃ | diṭhivāyamahijjagaṃ /
+vai-vikkhaliyaṃ naccā | na taṃ uvahase muṇī ||49||
+nakkhattaṃ sumiṇaṃ jogaṃ | nimittaṃ manta-bhesajaṃ /
+gihiṇo taṃ na āikkhe | bhūyāhigaraṇaṃ payaṃ ||50||
+annaṭhaṃ pagaḍaṃ layaṇaṃ | bhaejja sayaṇāsaṇaṃ /
+uccāra-bhūmi-saṃpannaṃ | itthī-pasu-vivajjiyaṃ ||51||
+vivittā ya bhave sejjā, | nārīṇaṃ na lave kahaṃ /
+gihi-saṃthavaṃ na kujjā, | kujjā sāhūhi saṃthavaṃ ||52||
+jahā kukkuḍa-poyassa | niccaṃ kulalao bhayaṃ /
+evaṃ khu bambhayārissa | itthī-viggahao bhayaṃ ||53||
+citta-bhittiṃ na nijjhāe | nāriṃ vā suṇalaṃkiyaṃ, /
+bhakkharaṃ piva daṭhūṇaṃ | diṭhiṃ paḍisamāhare ||54||
+hattha-pāya-paḍicchinnaṃ | kaṇṇa-nāsa-vigappiyaṃ /
+avi vāsasaiṃ nāriṃ | bambhayārī vivajjae ||55||
+vibhūsā itthi-saṃsaggī | paṇīya-rasa-bhoyaṇaṃ /
+narassatta-gavesissa | visaṃ tālauḍaṃ jahā ||56||
+aṅga-paccaṅga-saṃṭhāṇaṃ | cārullaviya-pehiyaṃ /
+itthīṇaṃ taṃ na nijjhāe | kāma-rāga-vivaḍḍhaṇaṃ ||57||
+visaesu maṇunnesuṃ | pemaṃ nābhinivesae /
+aṇiccaṃ tesi vinnāya | pariṇāmaṃ poggalāṇa u ||58||
+poggalāṇa parīṇāmaṃ | tesiṃ naccā jahā tahāũ/
+viṇīya-taṇho vihare | sīībhūeṇa appaṇā ||59||
+jāe saddhāe nikkhanto | pariyāyaṇṭhāṇamuttamaṃ /
+tameva aṇupālejjā | guṇe āyariya-sammae ||60||
+tavaṃ cimaṃ saṃjama-jogayaṃ ca | sajjhāya-jogaṃ ca sayā ahiṭhae /
+sūre va seṇāe samatta-māuhe | alamappaṇo hoi alaṃ paresiṃ ||61||
+sajjhāya-sajjhāṇa-rayassa tāiṇo | apāva-bhāvassa tave rayassa /
+visujjhaī jaṃ se malaṃ pure-kaḍaṃ | samīriyaṃ ruppa-malaṃ va joiṇā ||62||
+se tārise dukkha-sahe jiindie | sueṇa jutte amame akiṃcaṇe /
+virāyaī kamma-ghaṇammi avagae | kasiṇabbha-puḍāvagame va candima ||63|| tti bemi
+||
+|| aṣamamadhyayanam ||8||
+
+Dasaveyāliya: 9-1 navamamadhyayanam || prathama uddeśakaḥ (viṇayasamāhī.) /
+
+thambhā va kohā va maya-ppamāyā | gurussagāse viṇayaṃ na sikkhe /
+so ceva o tassa abhūi-bhāvo, | phalaṃ va kīyassa vahāya hoi ||1||
+je yāvi manda tti guruṃ viittā | ḍahare ime appa-sue tti naccā /
+hīlanti micchaṃ paḍivajjamāṇā | karenti āsāyaṇa te gurūṇaṃ ||2||
+pagaīe mandā vi bhavanti ege | ḍaharā vi ya je suya-buddhovaveyā /
+āyāramantā guṇa suṭhiyappā | je hīliyā sihiriva bhāsa kujjā ||3||
+je yāvi nāgaṃ ḍaharaṃ ti naccā | āsāyae se ahiyāya hoi /
+evāyariyaṃ pi hu hīlayanto | niyacchaī jāi-pahaṃ khu mande ||4||
+āsīviso yāvi paraṃ su-ruṭho | kiṃ jīva-nāsāo paraṃ nu kujjā? /
+āyariya-pāyā puṇa appasannā, | abohiṇāsāyaṇa natthi mokkho ||5||
+jo pāvagaṃ jaliyamavakkamejjā | āsīvisaṃ vā vi hu kovaejjā /
+jo vā visaṃ khāyai jīviyaṭhī | esovamāsāyaṇayā gurūṇaṃ ||6||
+siyā hu se pāvaya no ḍahejjā, | āsīviso vā kuvio na bhakkhe /
+siyā visaṃ hālahalaṃ na māre, | na yāvi mokkho guru-hīlaṇāe ||7||
+jo pavvayaṃ sirasā bhettumicche | suttaṃ va sīhaṃ paḍibohaejjā /
+jo vā dae sattiṇagge pahāraṃ | esovamāsāyaṇayā gurūṇaṃ ||8||
+siyā hu sīseṇa giriṃ pi bhinde | siyā hu sīho kuvio na bhakkhe /
+siyā na bhindejja va sattiṇaggaṃ | na yāvi mokkho guru-hīlaṇāe ||9||
+āyariya pāyā puṇa appasannā, | ābohiṇāsāsaṇa natthi mokkho /
+tamhā aṇābāha-suhābhikaṅkhī | guru-ppasāyābhimuho ramejjā ||10||
+jahāhiyaggī jalaṇaṃ namaṃse | nāṇāhuī-manta-payābhisittaṃ /
+evāyariyaṃ uvaciṭhaejjā | aṇanta-nāṇovagao vi santo ||11||
+jassantie dhamma-payāi sikkhe | tassantie viṇaiyaṃ pauñje /
+sakkārae sirasā pañjalīo | kāya-ggirā "bho" maṇasā ya niccaṃ ||12||
+lajjā dayā saṃjama bambhaceraṃ | kallāṇa-bhāgissa visohiṇṭhāṇaṃ /
+je me gurū sayayamaṇusāsayanti | te haṃ gurū sayayaṃ pūyayāmi ||13||
+jahā nisante tavaṇaccimālī | pabhāsaī kevala-bhārahaṃ tu /
+evāyario suya-sīla-buddhie | virāyaī sura-majjhe va indo ||14||
+jahā sasī komui-joga-jutte | nakkhatta-tārā-gaṇa-parivuḍappā /
+khe sohaī vimale abbha-mukke, | evaṃ gaṇī sohai bhikkhu-majjhe ||15||
+mahāgarā āyariyā mahesī | samāhi-joge suya-sīla-buddhie /
+saṃpāviu-kāme aṇuttarāiṃ | ārāhae, tosae dhamma-kāmī ||16||
+soccāṇa mehāvi-subhāsiyāiṃ | sussūsae āyariyappamatto /
+ārāhaittāṇa guṇe aṇege | se pāvaī siddhimaṇuttaraṃ ti ||17|| bemi ||
+|| navamamadhyayanam ||9-1||
+
+Dasaveyāliya: 9-2 navamamadhyayanam || dvitīya uddeśakaḥ /
+
+mūlāo khandha-ppabhavo dumassa, | khandhāo pacchā samuventi sāhā /
+sāha-ppasāhā viruhanti pattā, | tao se pupphaṃ ca phalaṃ raso ya ||1||
+evaṃ dhammassa viṇao | mūlaṃ, paramo se mokkho /
+jeṇa kittiṃ suyaṃ sagghaṃ | nissesaṃ cābhigacchaī ||2||
+je ya caṇḍe mie thaddhe | duvvāī niyaḍī saḍhe /
+vujjhaī se aviṇīyappā | kaṭhaṃ soya-gayaṃ jahā ||3||
+viṇayaṃ pi jo uvāeṇa | coio kuppaī naro /
+divvaṃ so sirimejjantiṃ | daṇḍeṇa paḍisehae ||4||
+taheva aviṇīyappā | uvavajjhā hayā gayā /
+dīsanti duhamehantā | ābhiogamuvaṭhiyā ||5||
+taheva suviṇīyappā | uvavajjhā hayā gayā /
+dīsanti suhamehantā | iḍḍhiṃ pattā mahāyasā ||6||
+taheva aviṇīyappā | logaṃsi nara-nārio /
+dīsanti duhamehantā | chāyā te vigalindiyā ||7||
+daṇḍa-sattha-parijuṇṇā | asabbha-vayaṇehi ya /
+kaluṇā vivanna-chandā | khuppivāsāe parigayā ||8||
+taheva suviṇīyappā | logaṃsi nara-nārio /
+dīsanti suhamehantā | iḍḍhiṃ pattā mahāyasā ||9||
+taheva aviṇīyappā | devā jakkhā ya gujjhagā /
+dīsanti duhamehantā | ābhiogamuvaṭhiyā ||10||
+taheva suviṇīyappā | devā jakkhā ya gujjhagā /
+dīsanti suhamehantā | iḍḍhiṃ pattā mahāyasā ||11||
+je āyariyaṇuvajjhāyāṇaṃ | sussūsā-vayaṇaṃ-karā /
+tesiṃ sikkhā pavaḍḍhanti | jala-sittā iva pāyavā ||12||
+appaṇaṭhā paraṭhā vā | sippā neuṇiyāṇi ya /
+gihiṇo uvabhogaṭhā | ihalogassa kāraṇā ||13||
+jeṇa bandhaṃ vahaṃ ghoraṃ | pariyāvaṃ ca dāruṇaṃ /
+sikkhamāṇā niyacchanti | juttā te laliindiyā ||14||
+te vi taṃ guruṃ pūyanti | tassa sippassa kāraṇā /
+sakkārenti namaṃsanti | tuṭhā niddesa-vattiṇo ||15||
+kiṃ puṇa je suya-ggāhī | aṇanta-hiya-kāmae! /
+āyariyā jaṃ vae bhikkhū | tamhā taṃ nāivattae ||16||
+nīyaṃ sejjaṃ gaiṃ ṭhāṇaṃ, | nīyaṃ ca āsaṇāṇi ya, /
+nīyaṃ ca pāe vandejjā, | nīyaṃ kujjā ya añjaliṃ ||17||
+saṃghaaittā kāeṇaṃ | tahā uvahiṇā-mavi /
+"khameha avarāhaṃ me" | vaejja "na puṇo" tti ya ||18||
+duggao vā paoeṇaṃ | coio vahaī rahaṃ, /
+evaṃ dubuddhi kiccāṇaṃ | vutto vutto pakuvvaī ||19||
+(ālavante lavante vā | na nisejjāe paḍissuṇe /)
+(mottūṇaṃ āsaṇaṃ dhīro | sussūsāe paḍissuṇe ||)
+kālaṃ chandovayāraṃ ca | paḍilehittāṇa heuhiṃ /
+teṇaṃ teṇaṃ uvāehiṃ | taṃ taṃ saṃpaḍivāyae ||20||
+vivattī aviṇīyassa, | saṃpattī viṇiyassa ya /
+jasseyaṃ duhao nāyaṃ | sikkhaṃ se abhigacchaī ||21||
+je yāvi caṇḍe maiṇiḍḍhi-gārave | pisuṇe nare sāhasa hīṇa-pesaṇe /
+adiṭha-dhamme viṇae akovie | asaṃvibhāgī na hu tassa mokkho ||22||
+niddesa-vattī puṇa je gurūṇaṃ | suyattha-dhammā viṇayammi koviyā /
+tarittu te ohamiṇaṃ duruttaraṃ | khavittu kammaṃ gaimuttamaṃ gaya ||23|| tti bemi ||
+|| navamamadhyayanam ||9-2||
+
+Dasaveyāliya: 9-3 navamamadhyayanam || tṛtīya uddeśakaḥ ||
+
+āyariyaggimivāhiyaggī | sussūsamāṇo paḍijāgarejjā /
+āloiyaṃ iṅgiyameva naccā | jo chandamārāhayaī sa pujjo ||1||
+āyāra-maṭhā viṇayaṃ pauñje | sussūsamāṇo parigijjha vakkaṃ /
+jahovaiṭhaṃ abhikaṅkhamāṇo | guruṃ tu nāsāyayaī, sa pujjo ||2||
+rāiṇiesu viṇayaṃ pauñje | ḍaharā vi ya je pariyāya-jeṭhā /
+niyattaṇe vaai sacca-vāī | ovāyavaṃ vakka-kare, sa pujjo ||3||
+annāyaṇuñchaṃ caraī visuddhaṃ | javaṇaṭhayā samuyāṇaṃ ca niccaṃ /
+aladdhuyaṃ no paridevaejjā, | laddhuṃ na vikaṃthayaī, sa pujjo ||4||
+saṃthāra-sejjāsaṇa-bhattapāṇe | appicchayā ailābhe vi sante /
+jo evamappāṇabhitosaejjā | saṃtosa-pāhanna rae sa pujjo ||5||
+sakkā saheuṃ āsāe ka- ayā | aomayā ucchahayā nareṇaṃ /
+aṇāsae jo u sahejja ka- e | vaīmae kaṇṇa-sare sa pujjo ||6||
+muhutta-dukkhā u havanti ka- ayā | aomayā, te vi tao suṇuddharā /
+vāyā-duruttāṇi duruddharāṇi | berāṇubandhīṇi mahabbhayāṇi ||7||
+samāvayantā vayaṇābhighāyā | kaṇṇaṃ-gayā dummaṇiyaṃ jaṇanti /
+dhammo tti kiccā paramagga-sūre | jiindie jo sahaī sa pujjo ||8||
+avaṇṇa-vāyaṃ ca parammuhassa | paccakkhao paḍiṇīyaṃ ca bhāsaṃ /
+ohāriṇiṃ appiyakāriṇiṃ ca | bhāsaṃ na bhāsejja sayā, sa pujjo ||9||
+alolue akkuhae amāī | apisuṇe yāvi adīṇa-vittī /
+no bhāvae no vi ya bhāviyappā | akouhalle ya sayā sa pujjo ||10||
+guṇehi sāhū, aguṇehi 'sāhū, | geṇhāhi sāhū-guṇa, muñcasāhū /
+viyāṇiyā appagamappaeṇaṃ | jo rāga-dosehi samo sa pujjo ||11||
+taheva ḍaharaṃ va mahallagaṃ vā | itthī pumaṃ pavvaiyaṃ gihiṃ vā /
+no hīlae no vi ya khiṃsaejjā, | thambhaṃ ca kohaṃ ca cae, sa pujjo ||12||
+je māṇiyā sayayaṃ māṇayanti | jatteṇa kannaṃ va nivesayanti /
+te māṇae māṇarihe tavassī | jiindie sacca-rae, sa pujjo ||13||
+tesiṃ gurūṇaṃ guṇasāgarāṇaṃ | soccāṇa mehāvi subhāsiyāiṃ /
+care muṇī pañcarae tigutto | caukkasāyāvagae, sa pujjo ||14||
+gurumiha sayayaṃ paḍiyariya muṇī | jiṇa-vaya-niuṇe abhigama-kusale /
+dhuṇiya raya-malaṃ pure-kaḍaṃ | bhāsuramaulaṃ gaiṃ gaya ||15|| tti bemi ||
+|| navamamadhyayanam ||9-3||
+Dasaveyāliya: 9-4 navamamadhyayanam || caturtha uddeśakaḥ ||
+
+   suyaṃ me āusaṃ teṇaṃ bhagavayā evamakkhāyaṃ | iha ||*1.1||
+khalu therehiṃ bhagavantehiṃ cattāri viṇaya-samāhiṭhāṇā ||*1.2||
+pannattā || kayare khalu te therehiṃ bhagavantehiṃ cattāri ||*1.3||
+viṇaya-samāhiṭhāṇā pannattā? ime khalu te therehiṃ bhagavantehiṃ ||*1.4||
+cattāri viṇaya-samāhiṭhāṇā pannattā, taṃ ||*1.5||
+jahā | viṇaya-samāhī suya-samāhī tava-samāhī āyāra-samāhī ||*1.6||
+||1|| ||*1.7||
+
+viṇae sue tave ya | āyāre niccaṃ paṇḍiyā /
+abhirāmayanti appāṇaṃ | je bhavanti jiindiyā ||2|| ||1||
+
+cauvvihā khalu viṇaya-samāhī bhavai, taṃ jahā | aṇusāsijjanto ||*3.1||
+sussūsai, sammaṃ saṃpaḍivajjai, veyamārāhayai, ||*3.2||
+na ya bhavai atta-saṃpaggahie cautthaṃ payaṃ ||*3.3||
+bhavai ||3|| bhavai ya ettha silogo ||*3.4||
+
+pehei hiyāṇusāsaṇaṃ, | sussūsaī, taṃ ca puṇo ahiṭhae /
+na ya māṇa-maeṇa majjai | viṇaya-samāhī āyayaṭhie ||4|| ||2||
+
+   cauvvihā khalu suya-samāhī bhavai, taṃ jahā ||*5.1||
+suyaṃ me bhavissai tti ajjhāiyavvaṃ bhavai, egaggacitto ||*5.2||
+bhavissāmi tti ajjhāiyavvaṃ bhavai, appāṇaṃ ||*5.3||
+ṭhāvaissāmi tti ajjhāiyavvaṃ bhavai, ṭhio paraṃ ||*5.4||
+ṭhāvaissāmi tti ajjhāiyavvaṃ bhavai cautthaṃ payaṃ ||*5.5||
+bhavai ||5|| bhavai ya ettha silogo ||*5.6||
+
+   nāṇamegagga-citto ya | ṭhio ṭhāvayaī paraṃ /
+   suyāṇi ya ahijjittā | rao suya-samāhie ||6|| ||3||
+
+   cauvvihā khalu tava-samāhī bhavai, taṃ jahā | no ||*7.1||
+ihalogaṭhayāe tavamahiṭhejjā, no paralogaṭhayāe tavamahiṭhejjā, ||*7.2||
+no kitti-vaṇṇa-sadda-silogaṭhayāe tavamahiṭhejjā, ||*7.3||
+nannattha nijjaraṭhayāe tavamahiṭhejjā cautthaṃ ||*7.4||
+payaṃ bhavai ||7|| bhavai ya ettha silogo ||*7.5||
+
+  viviha-guṇa-tavo-rae ya niccaṃ | bhavai nirāsae nijjaraṭhie /
+  tavasā dhuṇai purāṇa-pāvagaṃ | jutto sayā tava-samāhie ||8|| ||4||
+
+   cauvvihā khalu āyāra-samāhī bhavai, taṃ jahā ||*9.1||
+no ihalogaṭhayāe āyāramahiṭhejjā, nā paralogaṭhayāe ||*9.2||
+āyāramahiṭhejjā, no kitti-vaṇṇa-sadda-silogaṭhayāe ||*9.3||
+āyāramahiṭhejjā, nannattha ārahantehiṃ heūhiṃ ||*9.4||
+āyāramahiṭhejjā cautthaṃ payaṃ bhavai ||9|| ||*9.5||
+
+bhavai ya ettha silogo ||*10.1||
+jiṇa-vayaṇa-rae atintaṇe | paḍipuṇṇāyayamāyayaṭhie /
+āyāra-samāhi-saṃvuḍe | bhavai ya dante bhāva-saṃdhae ||10|| ||5||
+
+  abhigama cauro samāhio | suvisuddho susamāhiyappao /
+  viula-hiya-suhāvahaṃ puṇo | kuvvai so paya-khemamappaṇo ||11|| ||6||
+  jāi-maraṇāo muccaī | itthatthaṃ ca cayai savvaso /
+  siddhe vā bhavai sāsae | devo vā appa-rae mahiḍḍhie ||12|| ||7|| tti bemi ||
+|| navamamadhyayanam ||9-4||
+
+Dasaveyāliya: 10 daśamamadhyayanam (sa-bhikkhuṇajjhayaṇaṃ.) /
+
+nikkhamma-māṇāya buddha-vayaṇe | niccaṃ citta-samāhio havejjā /
+itthīṇa vasaṃ na yāvi gacche | vantaṃ no paḍiyāyaī je sa bhikkhū ||1||
+puḍhaviṃ na khaṇe na khaṇāvae, | sīodagaṃ na pie na piyāvae /
+agaṇi satthaṃ jahā su-nisiyaṃ | taṃ na jale na jalāvae je sa bhikkhū ||2||
+anileṇa na vīe na vīyāvae, | hariyāṇi na chinde na chindāvae /
+bīyāṇi sayā vivajjayanto | saccittaṃ nāhārae je sa bhikkhū ||3||
+vahaṇaṃ tasa-thāvarāṇa hoi | puḍhavi-taṇa-kaṭha-nissiyāṇaṃ /
+tamhā uddesiyaṃ na bhuñje, | no vi pae na payāvae je sa bhikkhū ||4||
+roiya-nāyaputta-vayaṇe | appa-same mannejja chappi kāe /
+pañca ya phāse mahavvayāiṃ | pañcāsava-saṃvarae je sa bhikkhū ||5||
+cattāri vame sayā kasāe | dhuva-jogī ya havejja buddha-vayaṇe /
+ahaṇe nijjāya-rūva-rayae | gihi-jogaṃ parivajjae je sa bhikkhū ||6||
+sammaddiṭhī sayā amūḍhe | "atthi hu nāṇe tave saṃjame ya" /
+tavasā dhuṇai purāṇa-pāvagaṃ | maṇa-vaya-kāya-susaṃvuḍe je sa bhikkhū ||7||
+taheva asaṇaṃ pāṇagaṃ vā | vivihaṃ khāima-sāimaṃ labhittā /
+"hohī aṭho sue pare vā" | taṃ na nihe na nihāvae je sa bhikkhū ||8||
+taheva asaṇaṃ pāṇagaṃ vā | vivihaṃ khāima-sāimaṃ labhittā /
+chandiya sāhammiyāṇa bhuñje | bhoccā sajjhāya-rae ya je sa bhikkhū ||9||
+na ya vuggahiyaṃ kahaṃ kahejjā | na ya kuppe nihuindie pasante /
+saṃjama-dhuva-joga-jutte | uvasante aviheḍae je sa bhikkhū ||10||
+jo sahai hu gāma-ka- ae | akkosa-pahāra-tajjaṇāo ya /
+bhaya-bherava-sadda sa-ppahāse | sama-suha-dukkha-sahe ya je sa bhikkhū ||11||
+paḍimaṃ paḍivajjiyā masāṇe | no bhāe bhaya-bheravāi dissa /
+viviha-guṇa-tavo-rae ya niccaṃ | na sarīraṃ cābhikaṅkhaī je sa bhikkhū ||12||
+asaiṃ vosaṭha-catta-dehe | akkuṭhe va hae va lūsie vā /
+puḍhavi-same muṇī havejjā | aniyāṇe akohalle ya je sa bhikkhū ||13||
+abhibhūya kāeṇa parīsahāiṃ | samuddhare jāi-pahāo appayaṃ /
+viittu jāī-maraṇaṃ mahabbhayaṃ | tave rae sāmaṇie je sa bhikkhū ||14||
+hattha-saṃjae pāya-saṃjae | vāya-saṃjae saṃjaindie /
+ajjhappa-rae susamāhiyappā | suttatthaṃ ca viyāṇaī je sa bhikkhū ||15||
+uvahimmi amucchie agiddhe | annāyaṇuñchaṃ pula-nippulāe /
+kaya-vikkaya-sannihiā virae | savva-saṅgāvagae ya je sa bhikkhū ||16||
+alolo bhikkhū na rasesu giddhe | uñchaṃ care jīviya-nābhikaṅkhī /
+iḍḍhiṃ ca sakkāraṇa pūyaṇaṃ ca | cae ṭhiyappā aṇihe je sa bhikkhū ||17||
+na paraṃ vaejjāsi "ayaṃ kusīle" | jeṇanno kuppejja na taṃ vaejjā /
+jāṇiya patteya puṇṇa-pāvaṃ | attāṇaṃ na samukkase je sa bhikkhū ||18||
+na jāi-matte na ya rūva-matte | na lābha-matte na sueṇa matte /
+mayāṇi savvāṇi vivajjayanto | dhamma-jjhāṇa-rae ya je sa bhikkhū ||19||
+paveyae ajja-payaṃ mahā-muṇī, | dhamme ṭhio ṭhāvayaī paraṃ pi /
+nikkhamma vajjejja kusīla-liṅgaṃ | na yāvi hāsaṃ kahae je sa bhikkhū ||20||
+taṃ deha-vāsaṃ asuiṃ asāsayaṃ | sayā cae nicca-hiyaṇṭhiyappā /
+chindittu jāī-maraṇassa bandhaṇaṃ | uvei bhikkhū apuṇāgamaṃ gaiṃ ||21|| ti bemi ||
+|| daśamamadhyayanam ||10||
+
+  Dasaveyāliya: 11 ekādaśamadhyayanam (raivakka-cūliyā paḍhamā.)/
+
+   iha khalu bho pavvaieṇaṃ uppanna-dukkheṇaṃ saṃjame ||*0.1||
+arai-samāvanna-citteṇaṃ ohāṇuppehiṇā aṇohāieṇaṃ ||*0.2||
+ceva hayarassi-gayaṅkusa-poyapaḍāgā-bhūyāiṃ imāiṃ ||*0.3||
+aṭhārasa ṭhāṇāiṃ sammaṃ saṃpaḍilehiyavvāiṃ bhavanti, taṃ ||*0.4||
+jahā | ||*0.5||
+  haṃ bho dussamāe duppajīvī ||1|| ||*1||
+  lahussagā ittariyā gihīṇaṃ kāma-bhogā ||2|| ||*2||
+  bhujjo ya sāya-bahulā maṇussā ||3|| ||*3||
+  imaṃ ca me dukkhaṃ na cirakālovaṭhāi bhavissai ||4|| ||*4||
+  oma-jaṇa-purakkāre ||5|| ||*5||
+  vantassa ya paḍiyāiyaṇaṃ gihīṇaṃ ||6|| ||*6||
+  aharagai-vāsovasaṃpayā ||7|| ||*7||
+  dullabhe khalu bho gihīṇaṃ dhamme gihi-vāsa-majjhe vasantāṇaṃ ||8|| ||*8||
+  āyaṅke se vahāya hoi ||9|| ||*9||
+  saṃkappe se vahāya hoi ||10|| ||*10||
+  sovakkese gihi-vāse, niruvakkese pariyāe ||11|| ||*11||
+  bandhe gihi-vāse, mokkhe pariyāe ||12|| ||*12||
+  sāvajje gihi-vāse, aṇavajje pariyāe ||13|| ||*13||
+  bahu-sāhāraṇā gihīṇaṃ kāma-bhogā ||14|| ||*14||
+  patteyaṃ puṇṇa-pāvaṃ ||15|| ||*15||
+  aṇicce khalu bho maṇuyāṇa jīvie kusaggajala-bindu-cañcale ||*16.1||
+||16|| ||*16.2||
+  bahuṃ ca khalu pāvaṃ kammaṃ pagaḍaṃ ||17|| ||*17||
+  pāvāṇaṃ ca khalu bho kaḍāṇaṃ kammāṇaṃ puvviṃ ||*18.1||
+  ducciṇṇāṇaṃ duppaḍikkantāṇaṃ veyaittā mokkho, natthi ||*18.2||
+  aveyaittā, tavasā vā jhosaittā | aṭhārasamaṃ payaṃ ||*18.3||
+  bhavai ||18|| bhavai ya ettha silogo ||*18.4||
+jayā ya cayaī dhammaṃ | aṇajjo bhoga-kāraṇā /
+se tattha mucchie bāle | āyaiṃ nāvabujjhaī ||1||
+jayā ohāvio hoi | indo vā paḍio chamaṃ /
+savva-dhamma-paribbhaṭho | sa pacchā paritappaī ||2||
+jayā ya vandimo hoi | pacchā hoi avandimo /
+devayā va ccuyā ṭhāṇā | sa pacchā paritappaī ||3||
+jayā ya pūimo hoi | pacchā hoi apūimo /
+rāyā va rajja-pabbhaṭho | sa pacchā paritappaī ||4||
+jayā ya māṇimo hoi | pacchā hoi amāṇimo /
+seṭhi vva kabbaḍe chūḍho | sa pacchā paritappaī ||5||
+jayā ya therao hoi | samaikkanta-jovvaṇo /
+maccho vva galiṃ gilittā | sa pacchā paritappaī ||6||
+(jayā ya kukuḍaṃbassa | kutattīhiṃ vihammaī /)
+(hatthī va bandhaṇe baddho | sa pacchā paritappaī ||)
+putta-dāra-parikiṇṇo | moha-saṃtāṇa-saṃtao /
+paṅkosanno jahā nāgo | sa pacchā paritappaī ||7||
+"ajja yāhaṃ gaṇī honto | bhāviyappā bahussuo /
+jai haṃ ramanto pariyāe | sāmaṇṇe jiṇa-desie" ||8||
+devaloga-samāṇo u | pariyāo mahesiṇaṃ /
+rayāṇaṃ, arayāṇaṃ ca | mahānaraya-sāliso ||9||
+amarovamaṃ jāṇiya sokkhamuttamaṃ | rayāṇa pariyāe, tahārayāṇaṃ /
+niraovamaṃ jāṇiya dukkhamuttamaṃ | ramejja tamhā pariyāya paṇḍie ||10||
+dhammāo bhaṭhaṃ siriovaveyaṃ | jannāggi vijjhāyamivappa-teyaṃ /
+hīlanti -aṃ duvvihiyaṃ kusīlā | dāḍhuddhiyaṃ ghora-visaṃ va nāgaṃ ||11||
+ihevadhammo ayaso akittī | dunnāmadhejjaṃ ca pihujjaṇammi /
+cuyassa dhammāo ahamma-seviṇo | saṃbhinna-vittassa ya heṭhao gaī ||12||
+bhuñjittu bhogāi pasajjha ceyasā | tahāvihaṃ kau asaṃjamaṃ bahuṃ /
+gaiṃ ca gacche aṇabhijjhiyaṃ duhaṃ, | bohī ya se no sulabhā puṇo puṇo ||13||
+"imassa tā neraiyassa jantuṇo | duhovaṇīyassa kilesa-vattiṇo /
+paliovamaṃ jhijjai sāgarovamaṃ, | kimaṅga puṇa majjha imaṃ maṇo-duhaṃ! ||14||
+na me ciraṃ dukkhamiṇaṃ bhavissaī, | asāsayā bhoga-pivāsa jantuṇo /
+na ce sarīreṇa imeṇavessaī, | avesaī jīviya-pajjaveṇa me" ||15||
+jassevamappā u havejja nicchio | caejja dehaṃ, na u dhamma-sāsaṇaṃ /
+taṃ tārisaṃ no payalenti indiyā | uvanta-vāyā va sudaṃsaṇaṃ giriṃ ||16||
+icceva saṃpassiya buddhimaṃ naro | āyaṃ uvāyaṃ vivihaṃ viyāṇiyā /
+kāeṇa vāyā adu māṇaseṇaṃ | tigutti-gutto jiṇa-vayaṇamahiṭhejjāsi ||17|| tti bemi ||
+|| ekādaśamadhyayanam ||11||
+
+Dasaveyāliya: 12 dvādaśamadhyayanam (cūliyā.) /
+
+cūliyaṃ tu pavakkhāmi | suyaṃ kevali-bhāsiyaṃ /
+jaṃ suṇittu sa-puṇṇāṇaṃ | dhamme uppajjae maī ||1||
+aṇusoya-paṭhie bahu-jaṇammi | paḍisoya-laddha-lakkheṇaṃ /
+paḍisoyameva appā | dāyavvo hou-kāmeṇaṃ ||2||
+aṇusoya-suho logo, | paḍisoo āsavo suvihiyāṇaṃ /
+aṇusoo saṃsāro, | paḍisoo tassa uttāro ||3||
+tamhā āyāra-parakkameṇa | saṃvara-samāhi-bahuleṇaṃ /
+cariyā guṇā ya niyamā ya | honti sāhūṇa daṭhavvā ||4||
+aṇieya-vāso samuyāṇa-cariyā | annāyaṇuñchaṃ pairikkayā ya /
+appovahī kalaha-vivajjaṇā ya | vihāra-cariyā isiṇaṃ pasatthā ||5||
+āiṇṇaṇomāṇa-vivajjaṇā ya | osanna-diṭhāhaḍa-bhatta-pāṇe /
+saṃsaṭha-kappeṇa carejja bhikkhū | tajjāya-saṃsaṭha jaī jaejjā ||6||
+a-majja-maṃsāsi amaccharīyā | abhikkhaṇaṃ nivvigaīgayā ya /
+abhikkhaṇaṃ kāussagga-kārī, | sajjhāya-joge payao havejjā ||7||
+na paḍinnavejjā sayaṇāsaṇāiṃ | sejjaṃ nisejjaṃ taha bhatta-pāṇaṃ /
+gāme kule vā nagare va dese | mamatta-bhāvaṃ na kahiṃci kujjā ||8||
+gihiṇo veyāvaḍiyaṃ na kujjā | abhivāyaṇaṃ vandaṇa pūyaṇaṃ vā /
+asaṃkiliṭhehi samaṃ vasejjā | muṇī carittassa jao na hāṇī ||9||
+na yā labhejjā niuṇaṃ sahāyaṃ | guṇāhiyaṃ vā guṇao samaṃ vā /
+ekko vi pāvāi vivajjayanto | viharejja kāmesu asajjamāṇo ||10||
+saṃvaccharaṃ cāvi paraṃ pamāṇaṃ, | bīyaṃ ca vāsaṃ na tahiṃ vasejjā /
+suttassa maggeṇa carejja bhikkhū | suttassa attho jaha āṇavei ||11||
+jo puvvarattāvararatta-kāle | saṃpehaī appagamappaeṇaṃ /
+"kiṃ me kaḍaṃ? kiṃ ca me kicca-sesaṃ? | kiṃ sakkaṇijjaṃ na samāyarāmi? ||12||
+kiṃ me paro pāsai? kiṃ ca appā? | kiṃ cāhaṃ khaliyaṃ na vivajjayāmi?" /
+icceva sammaṃ aṇupāsamāṇo | aṇāgayaṃ no paḍibandha kujjā ||13||
+jattheva pāse kai duppauttaṃ | kāeṇa vāyā adu māṇaseṇaṃ /
+tattheva dhīro paḍisāharejjā | āinno khippamiva kkhalīṇaṃ ||14||
+jasserisā joga jiindiyassa | dhiīmao sappurisassa niccaṃ /
+tamāhu loe "paḍibuddha-jīvī", | so jīvaī saṃjama-jīvieṇa ||15||
+appā hu khalu sayayaṃ rakkhiyavvo | savvindiehiṃ susamāhiehiṃ /
+arakkhio jāi-pahaṃ uvei, | surakkhio savva-duhāṇa muccai ||16|| tti bemi ||
+|| dvādaśamadhyayanam ||12||
+
+
+
+
+
