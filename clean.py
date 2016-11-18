@@ -8,6 +8,8 @@ single_side_single_digit_regex = re.compile(r"[|][|][*][0-9][.][0-9][|][|]")
 left_side_single_digit_regex = re.compile(r"[|][|][*][0-9][.][0-9][0-9][|][|]")
 right_side_single_digit_regex = re.compile(r"[|][|][*][0-9][0-9][.][0-9][|][|]")
 double_side_double_digit_regex = re.compile(r"[|][|][*][0-9][0-9][.][0-9][0-9][|][|]")
+triple_left_double_right_regex = re.compile(r"[|][|][*][0-9][0-9][0-9][.][0-9][0-9][|][|]")
+triple_left_single_right_regex = re.compile(r"[|][|][*][0-9][0-9][0-9][.][0-9][|][|]")
 
 single_digit_only_each_regex = re.compile(r"[|][|][0-9][.][0-9][|][|]")
 left_single_digit_only_each_regex = re.compile(r"[|][|][0-9][.][0-9][0-9][|][|]")
@@ -16,6 +18,7 @@ double_digit_only_each_regex = re.compile(r"[|][|][0-9][0-9][.][0-9][0-9][|][|]"
 
 single_digit_regex = re.compile(r"[|][|][0-9][|][|]")
 double_digit_regex = re.compile(r"[|][|][0-9][0-9][|][|]")
+triple_digit_regex = re.compile(r"[|][|][0-9][0-9][0-9][|][|]")
 
 asterisk_double_regex = re.compile(r"[|][|][*][0-9][0-9][|][|]")
 asterisk_single_regex = re.compile(r"[|][|][*][0-9][|][|]")
@@ -108,6 +111,21 @@ for line in inp_dat:
 		out.write(x)
 	elif re.search(double_to_single_regex, line):
 		p = re.search(double_to_single_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(triple_digit_regex, line):
+		p = re.search(triple_digit_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(triple_left_single_right_regex, line):
+		p = re.search(triple_left_single_right_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(triple_left_double_right_regex, line):
+		p = re.search(triple_left_double_right_regex, line)
 		x = line[:p.start()] + line[p.end():]
 		print x
 		out.write(x)
