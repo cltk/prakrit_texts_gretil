@@ -2,7 +2,7 @@ import json
 import xmltodict
 from bs4 import BeautifulSoup
 
-file_path = "/Users/apple/Documents/Python/GRETIL-Prakrit/Prakrit/"
+file_path = ""
 
 # file to be scraped
 file_name = ""
@@ -16,3 +16,5 @@ data = BeautifulSoup(data, "html5lib").get_text().encode('utf-8')
 
 out = open(file_path+out_file_name, "w+")
 out.write(data)
+out.close()
+f.close()
