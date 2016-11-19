@@ -1,6 +1,6 @@
 import re
 
-file_path = "/Users/apple/Documents/Python/GRETIL-Prakrit/Prakrit/"
+file_path = ""
 
 file_name = ".txt"
 
@@ -31,6 +31,11 @@ double_to_single_regex = re.compile(r"[|][|][0-9][0-9][-][0-9][|][|]")
 hadhut_single_regex = re.compile(r"[/][/][ ][H][a][D][h][_][0-9][.][0-9][ ][/][/]")
 hadhut_double_regex = re.compile(r"[/][/][ ][H][a][D][h][_][0-9][.][0-9][0-9][ ][/][/]")
 hadhut_triple_regex = re.compile(r"[/][/][ ][H][a][D][h][_][0-9][.][0-9][0-9][0-9][ ][/][/]")
+
+halsatsu_single_regex = re.compile(r"[ ][H][S][S][_][0-9][a-d][a-d]")
+halsatsu_double_regex = re.compile(r"[ ][H][S][S][_][0-9][0-9][a-d][a-d]")
+halsatsu_triple_regex = re.compile(r"[ ][H][S][S][_][0-9][0-9][0-9][a-d][a-d]")
+halsatsu_quadruple_regex = re.compile(r"[ ][H][S][S][_][0-9][0-9][0-9][0-9][a-d][a-d]")
 
 inp = open(file_path+file_name, "rw+")
 inp_dat = inp.readlines()
@@ -145,6 +150,26 @@ for line in inp_dat:
 		out.write(x)
 	elif re.search(hadhut_triple_regex, line):
 		p = re.search(hadhut_triple_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(halsatsu_single_regex, line):
+		p = re.search(halsatsu_single_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(halsatsu_double_regex, line):
+		p = re.search(halsatsu_double_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(halsatsu_triple_regex, line):
+		p = re.search(halsatsu_triple_regex, line)
+		x = line[:p.start()] + line[p.end():]
+		print x
+		out.write(x)
+	elif re.search(halsatsu_quadruple_regex, line):
+		p = re.search(halsatsu_quadruple_regex, line)
 		x = line[:p.start()] + line[p.end():]
 		print x
 		out.write(x)
