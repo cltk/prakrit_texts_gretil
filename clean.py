@@ -1,8 +1,8 @@
 import re
 
-file_path = "/Users/apple/Documents/Python/GRETIL-Prakrit/Prakrit/"
+file_path = ""
 
-file_name = "spaucaru.txt"
+file_name = ".txt"
 
 single_side_single_digit_regex = re.compile(r"[|][|][*][0-9][.][0-9][|][|]")
 left_side_single_digit_regex = re.compile(r"[|][|][*][0-9][.][0-9][0-9][|][|]")

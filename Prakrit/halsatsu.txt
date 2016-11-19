@@ -1,18 +1,3 @@
-
-    
-    
- Hala: Sattasai 
-    
-    body   { background-color: #FFFFFF; font-family: Arial Unicode Ms, Arial Unicode Ms Standard }
-    .large { font-size: 18px; }
-    .red   { color: #FF0000; }
-    .blue  { color: #0000FF; }
-    td     { font-family: 'Arial Unicode MS', 'Arial Unicode MS Standard', 'Gentium', 'Gandhari Unicode', 'Lucida Grande', 'CyberBit', 'Bitstream CyberBase', 'Bitstream CyberCJK', 'Code2000', 'Courier New', 'Doulos SIL', 'Fixedsys Excelsio', 'Free Monospaced', 'Free Serif', 'Everson Mono Unicode', 'Arial', 'CN-Arial', 'CN-Times'; }
-    hr     { width: 50%; height: 1px; margin-left: 0; margin-right: auto; }
-    
-
-
-
 Hala: Sattasai [=Saptasatakam = Gathasaptasati]
 Based on the edition by Albrecht Weber: Das Saptaçatakam des Hâla, Leipzig : Brockhaus 1881
 (Abhandlungen für die Kunde des Morgenlandes ; 7,4).
